@@ -1,0 +1,42 @@
+name: Fetch Bug Bounty Programs
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  fetch-programs:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v2
+
+      - name: Fetch programs
+        run: |
+          wget https://raw.githubusercontent.com/projectdiscovery/public-bugbounty-programs/main/chaos-bugbounty-list.json
+      - name: Create program folders and files
+        run: |
+          for i in $(seq $(jq -r '.programs[].name' chaos-bugbounty-list.json | wc -l)); do
+              program_name=$(jq -r ".programs[$i].name" chaos-bugbounty-list.json | tr -d "\t\n\r" | tr -cs '[:alnum:]_/-' "-")
+
+              if [[ -n "$program_name" ]]; then
+                  mkdir -p $program_name
+                  jq -r ".programs[$i]" chaos-bugbounty-list.json > $program_name/program.txt
+
+                  for host in $(jq -r ".programs[$i].domains[]" chaos-bugbounty-list.json); do
+                      mkdir -p $program_name/$host
+                      echo "detect subdomains" >> $program_name/$host/tasks.txt
+                      echo "detect technologies" >> $program_name/$host/tasks.txt
+                  done
+              fi
+          done
+      - name: Commit changes
+        run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+          git add .
+          git commit -m "Program Fetched: $(date)"
+          git push
+      - name: Cleaning Up
+        run: |
+          rm chaos-bugbounty-list.json
