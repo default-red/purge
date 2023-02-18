@@ -1,0 +1,9 @@
+{
+  "name": "Panther Labs",
+  "url": "https://hackerone.com/panther_labs",
+  "bounty": true,
+  "domains": [
+    "runpanther.io",
+    "runpanther.com"
+  ]
+}

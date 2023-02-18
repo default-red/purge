@@ -1,0 +1,8 @@
+{
+  "name": "Natur.com GmbH",
+  "url": "https://hackerone.com/natur_com_gmbh",
+  "bounty": false,
+  "domains": [
+    "natur.com"
+  ]
+}

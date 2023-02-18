@@ -1,0 +1,17 @@
+{
+  "name": "OnePlus",
+  "url": "https://security.oneplus.com/",
+  "bounty": true,
+  "domains": [
+    "oneplus.com",
+    "oneplus.in",
+    "oneplus.net",
+    "oneplus.cn",
+    "oneplusbbs.com",
+    "h2os.com",
+    "onepl.us",
+    "1plus.io",
+    "oxygenos.com",
+    "onepluscorp.cn"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Wageningen University",
+  "url": "https://www.wur.nl/en/Value-Creation-Cooperation/Information-security.htm",
+  "bounty": false,
+  "swag": true,
+  "domains": [
+    "wur.nl"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Kraden",
+  "url": "https://hackerone.com/kraden",
+  "bounty": true,
+  "domains": [
+    "dragonapp.io",
+    "getdragon.ch"
+  ]
+}

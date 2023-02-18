@@ -1,0 +1,2 @@
+detect subdomains
+detect technologies

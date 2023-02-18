@@ -1,0 +1,8 @@
+{
+  "name": "Samsung TV",
+  "url": "https://samsungtvbounty.com",
+  "bounty": true,
+  "domains": [
+    "samsung.com"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Yelp",
+  "url": "https://hackerone.com/yelp",
+  "bounty": true,
+  "domains": [
+    "yelp.com",
+    "yelpwifi.com",
+    "yelp-support.com",
+    "yelpreservations.com",
+    "nowait.com"
+  ]
+}

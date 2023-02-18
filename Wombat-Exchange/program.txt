@@ -1,0 +1,8 @@
+{
+  "name": "Wombat Exchange",
+  "url": "https://immunefi.com/bounty/wombatexchange/",
+  "bounty": true,
+  "domains": [
+    "wombat.exchange"
+  ]
+}

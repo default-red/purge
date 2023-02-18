@@ -1,0 +1,15 @@
+{
+  "name": "Paddy Power Betfair",
+  "url": "https://hackerone.com/flutteruki",
+  "bounty": true,
+  "domains": [
+    "betfair.ro",
+    "betfair.se",
+    "paddypower.it",
+    "betfair.it",
+    "betfair.es",
+    "betfair.com",
+    "paddypower.com",
+    "betfair.exchange"
+  ]
+}

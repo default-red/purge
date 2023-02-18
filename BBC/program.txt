@@ -1,0 +1,9 @@
+{
+  "name": "BBC",
+  "url": "https://www.bbc.com/backstage/security-disclosure-policy/",
+  "bounty": false,
+  "swag": true,
+  "domains": [
+    "bbc.com"
+  ]
+}

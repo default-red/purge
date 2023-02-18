@@ -1,0 +1,10 @@
+{
+  "name": "Tweakers",
+  "url": "https://app.intigriti.com/programs/dpgm/tweakers/detail",
+  "bounty": true,
+  "domains": [
+    "tweakblogs.net",
+    "tweakers.net",
+    "tweakimg.net"
+  ]
+}

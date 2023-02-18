@@ -1,0 +1,10 @@
+{
+  "name": "Harvest",
+  "url": "https://hackerone.com/harvest",
+  "bounty": true,
+  "domains": [
+    "forecastapp.com",
+    "getharvest.com",
+    "harvestapp.com"
+  ]
+}

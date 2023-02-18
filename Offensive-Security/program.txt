@@ -1,0 +1,11 @@
+{
+  "name": "Offensive Security",
+  "url": "https://www.offensive-security.com/bug-bounty-program/",
+  "bounty": true,
+  "domains": [
+    "offensive-security.com",
+    "exploit-db.com",
+    "kali.org",
+    "backtrack-linux.org"
+  ]
+}

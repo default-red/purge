@@ -1,0 +1,9 @@
+{
+  "name": "Varonis VDP",
+  "url": "https://hackerone.com/varonis",
+  "bounty": false,
+  "domains": [
+    "varonis.com",
+    "varonis.io"
+  ]
+}

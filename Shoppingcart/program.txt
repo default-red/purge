@@ -1,0 +1,8 @@
+{
+  "name": "Shoppingcart",
+  "url": "https://bugcrowd.com/shoppingcart",
+  "bounty": true,
+  "domains": [
+    "mcssl.com"
+  ]
+}

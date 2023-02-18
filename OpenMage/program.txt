@@ -1,0 +1,8 @@
+{
+  "name": "OpenMage",
+  "url": "https://hackerone.com/openmage",
+  "bounty": false,
+  "domains": [
+    "openmage.org"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Cryptology",
+  "url": "https://hackenproof.com/cryptology/cryptology",
+  "bounty": true,
+  "domains": [
+    "cryptology.com"
+  ]
+}

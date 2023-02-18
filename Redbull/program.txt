@@ -1,0 +1,10 @@
+{
+  "name": "Redbull",
+  "url": "https://app.intigriti.com/programs/redbull/redbull/detail",
+  "bounty": false,
+  "domains": [
+    "redbull.com",
+    "redbullmediahouse.com",
+    "redbullmusicacademy.com"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "CFP Time",
+  "url": "https://hackerone.com/cfptime",
+  "bounty": false,
+  "domains": [
+    "cfptime.org"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Scraping Hub",
+  "url": "https://www.scrapinghub.com/resp-disc-policy/",
+  "bounty": false,
+  "domains": [
+    "scrapinghub.com",
+    "crawlera.com"
+  ]
+}

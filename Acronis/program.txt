@@ -1,0 +1,11 @@
+{
+  "name": "Acronis",
+  "url": "https://hackerone.com/acronis",
+  "bounty": true,
+  "domains": [
+    "acronis.com",
+    "5nine.com",
+    "devicelock.com",
+    "acronis.work"
+  ]
+}

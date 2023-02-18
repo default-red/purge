@@ -1,0 +1,12 @@
+{
+  "name": "Snapchat",
+  "url": "https://hackerone.com/snapchat",
+  "bounty": true,
+  "domains": [
+    "snapchat.com",
+    "spectacles.com",
+    "bitmoji.com",
+    "bitstrips.com",
+    "scan.me"
+  ]
+}

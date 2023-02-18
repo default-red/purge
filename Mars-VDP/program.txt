@@ -1,0 +1,23 @@
+{
+  "name": "Mars VDP",
+  "url": "https://hackerone.com/mars",
+  "bounty": false,
+  "swag": false,
+  "domains": [
+    "mars.com",
+    "marschocolate.com",
+    "mms.com",
+    "pedigree.com",
+    "twix.com",
+    "orbitgum.com",
+    "dovechocolate.com",
+    "extragum.com",
+    "whiskas.com",
+    "royalcanin.com",
+    "skittles.com",
+    "royal-canin.com",
+    "bluepearlvet.com",
+    "banfield.com",
+    "vcahospitals.com"
+  ]
+}

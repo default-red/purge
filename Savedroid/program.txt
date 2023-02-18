@@ -1,0 +1,8 @@
+{
+  "name": "Savedroid",
+  "url": "https://hackerone.com/savedroid",
+  "bounty": true,
+  "domains": [
+    "savedroid.com"
+  ]
+}

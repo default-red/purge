@@ -1,0 +1,9 @@
+{
+  "name": "ForeScout Technologies",
+  "url": "https://hackerone.com/forescout_technologies",
+  "bounty": true,
+  "domains": [
+    "forescoutcloud.net",
+    "forescout.com"
+  ]
+}

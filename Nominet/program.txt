@@ -1,0 +1,10 @@
+{
+  "name": "Nominet",
+  "url": "https://hackerone.com/nominet",
+  "bounty": false,
+  "domains": [
+    "nominet.uk",
+    "nominet.org.uk",
+    "nic.uk"
+  ]
+}

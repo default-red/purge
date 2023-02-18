@@ -1,0 +1,8 @@
+{
+  "name": "Second Street",
+  "url": "https://www.secondstreet.com/product-security-responsible-disclosure-policy",
+  "bounty": false,
+  "domains": [
+    "secondstreetapp.com"
+  ]
+}

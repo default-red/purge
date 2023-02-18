@@ -1,0 +1,8 @@
+{
+  "name": "Smokescreen",
+  "url": "https://www.smokescreen.io/responsible-disclosure-policy/",
+  "bounty": true,
+  "domains": [
+    "smokescreen.io"
+  ]
+}

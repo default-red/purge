@@ -1,0 +1,12 @@
+{
+  "name": "Crowdstrike",
+  "url": "https://hackerone.com/crowdstrike",
+  "bounty": true,
+  "domains": [
+    "crowdstrike.com",
+    "crowdstrike.org",
+    "falcon-sandbox.com",
+    "hybrid-analysis.com",
+    "reverse.it"
+  ]
+}

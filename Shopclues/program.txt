@@ -1,0 +1,8 @@
+{
+  "name": "Shopclues",
+  "url": "https://www.shopclues.com/wall-of-fame.html",
+  "bounty": false,
+  "domains": [
+    "shopclues.com"
+  ]
+}

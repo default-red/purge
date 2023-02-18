@@ -1,0 +1,9 @@
+{
+  "name": "Octopus Deploy",
+  "url": "https://octopus.com/security/disclosure",
+  "bounty": false,
+  "swag": true,
+  "domains": [
+    "octopus.com"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Vista",
+  "url": "https://www.vista.co/responsible-disclosure-policy/",
+  "bounty": false,
+  "domains": [
+    "vista.co",
+    "vista.co.nz",
+    "veezi.com",
+    "movieteam.co"
+  ]
+}

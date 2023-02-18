@@ -1,0 +1,8 @@
+{
+  "name": "Intercom",
+  "url": "https://bugcrowd.com/intercom",
+  "bounty": true,
+  "domains": [
+    "intercom.io"
+  ]
+}

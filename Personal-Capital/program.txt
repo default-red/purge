@@ -1,0 +1,8 @@
+{
+  "name": "Personal Capital",
+  "url": "https://bugcrowd.com/personalcapital",
+  "bounty": true,
+  "domains": [
+    "pcapcloud.com"
+  ]
+}

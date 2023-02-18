@@ -1,0 +1,13 @@
+{
+  "name": "Marriott",
+  "url": "https://hackerone.com/marriott",
+  "bounty": false,
+  "domains": [
+    "marriott.com",
+    "marriott.co.uk",
+    "starwoodhotels.com",
+    "ritzcarlton.com",
+    "eleganthotels.com",
+    "marrtool.com"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Xiaomi",
+  "url": "https://hackerone.com/xiaomi",
+  "bounty": true,
+  "domains": [
+    "mi.com",
+    "miui.com",
+    "xiaomiyoupin.com",
+    "miwifi.com",
+    "global.shop",
+    "xiaomi.market",
+    "xiaomi.com"
+  ]
+}

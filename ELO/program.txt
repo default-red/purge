@@ -1,0 +1,9 @@
+{
+  "name": "ELO",
+  "url": "https://bugbounty.hackaflag.com.br/hempresa.php?id=13",
+  "bounty": false,
+  "swag": false,
+  "domains": [
+    "elo.com.br"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Quora",
+  "url": "https://hackerone.com/quora",
+  "bounty": true,
+  "domains": [
+    "app.mobile",
+    "quora.com"
+  ]
+}

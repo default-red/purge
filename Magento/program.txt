@@ -1,0 +1,11 @@
+{
+  "name": "Magento",
+  "url": "https://hackerone.com/magento",
+  "bounty": true,
+  "domains": [
+    "magento.com",
+    "magento.cloud",
+    "magentocommerce.com",
+    "magentolive.com"
+  ]
+}

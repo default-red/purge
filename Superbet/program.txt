@@ -1,0 +1,9 @@
+{
+  "name": "Superbet",
+  "url": "https://hackerone.com/superbet",
+  "bounty": true,
+  "swag": false,
+  "domains": [
+    "superbet.ro"
+  ]
+}

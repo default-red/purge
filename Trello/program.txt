@@ -1,0 +1,10 @@
+{
+  "name": "Trello",
+  "url": "https://bugcrowd.com/trello",
+  "bounty": true,
+  "domains": [
+    "butlerfortrello.com",
+    "trello.com",
+    "trello.services"
+  ]
+}

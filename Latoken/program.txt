@@ -1,0 +1,8 @@
+{
+  "name": "Latoken",
+  "url": "https://hackenproof.com/latoken/latoken-exchange",
+  "bounty": true,
+  "domains": [
+    "latoken.com"
+  ]
+}

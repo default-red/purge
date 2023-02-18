@@ -1,0 +1,8 @@
+{
+  "name": "Auvik",
+  "url": "https://www.auvik.com/vulnerability-disclosure-program/",
+  "bounty": false,
+  "domains": [
+    "auvik.com"
+  ]
+}

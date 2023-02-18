@@ -1,0 +1,9 @@
+{
+  "name": "DPG Media",
+  "url": "https://app.intigriti.com/programs/dpgm/dpgmedia/detail",
+  "bounty": true,
+  "domains": [
+    "dpgmedia.be",
+    "dpgmedia.nl"
+  ]
+}

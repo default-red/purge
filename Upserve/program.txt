@@ -1,0 +1,12 @@
+{
+  "name": "Upserve",
+  "url": "https://hackerone.com/upserve",
+  "bounty": true,
+  "domains": [
+    "d2evh2mef3r450.cloudfront.net",
+    "swipely.com",
+    "vulnerbug.com",
+    "breadcrumb.com",
+    "upserve.com"
+  ]
+}

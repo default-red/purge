@@ -1,0 +1,8 @@
+{
+  "name": "OMG Nepal",
+  "url": "https://app.bugv.io/researcher/program/0000005/detail",
+  "bounty": true,
+  "domains": [
+    "omgnepal.com"
+  ]
+}

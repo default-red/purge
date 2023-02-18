@@ -1,0 +1,9 @@
+{
+  "name": "Adafruit",
+  "url": "https://www.adafruit.com/reportingsecurityissues",
+  "bounty": true,
+  "domains": [
+    "adafruit.com",
+    "adafruitdaily.com"
+  ]
+}

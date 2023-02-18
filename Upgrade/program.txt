@@ -1,0 +1,8 @@
+{
+  "name": "Upgrade",
+  "url": "https://hackerone.com/upgrade",
+  "bounty": false,
+  "domains": [
+    "upgrade.com"
+  ]
+}

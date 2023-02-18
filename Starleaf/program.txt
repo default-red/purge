@@ -1,0 +1,8 @@
+{
+  "name": "Starleaf",
+  "url": "https://www.starleaf.com/c/bug-bounty-program/",
+  "bounty": true,
+  "domains": [
+    "starleaf.com"
+  ]
+}

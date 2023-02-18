@@ -1,0 +1,9 @@
+{
+  "name": "Koho",
+  "url": "https://hackerone.com/koho",
+  "bounty": false,
+  "domains": [
+    "koho.ca",
+    "koho.app"
+  ]
+}

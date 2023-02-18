@@ -1,0 +1,9 @@
+{
+  "name": "PagerDuty",
+  "url": "https://www.pagerduty.com/security/disclosure/",
+  "bounty": false,
+  "swag": true,
+  "domains": [
+    "pagerduty.com"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Every",
+  "url": "https://hackerone.com/stagingdoteverydotorg",
+  "bounty": false,
+  "domains": [
+    "every.org"
+  ]
+}

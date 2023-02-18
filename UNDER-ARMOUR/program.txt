@@ -1,0 +1,16 @@
+{
+  "name": "UNDER ARMOUR",
+  "url": "https://bugcrowd.com/underarmour",
+  "bounty": false,
+  "domains": [
+    "myfitnesspal.com",
+    "underarmour.com",
+    "endomondo.com",
+    "mapmyfitness.com",
+    "mapmyride.com",
+    "mapmyrun.com",
+    "mapmywalk.com",
+    "underarmour.co.uk",
+    "ua.com"
+  ]
+}

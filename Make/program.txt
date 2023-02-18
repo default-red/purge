@@ -1,0 +1,9 @@
+{
+  "name": "Make",
+  "url": "https://www.make.com/en/bounty",
+  "bounty": true,
+  "swag": false,
+  "domains": [
+    "make.com"
+  ]
+}

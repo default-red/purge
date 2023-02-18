@@ -1,0 +1,10 @@
+{
+  "name": "LINE",
+  "url": "https://hackerone.com/line",
+  "bounty": true,
+  "domains": [
+    "line.me",
+    "line-apps.com",
+    "naver.jp"
+  ]
+}

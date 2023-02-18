@@ -1,0 +1,8 @@
+{
+  "name": "Directly",
+  "url": "https://bugcrowd.com/directly",
+  "bounty": true,
+  "domains": [
+    "directly.com"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Oasis Protocol Foundation",
+  "url": "https://hackerone.com/oasis_protocol_foundation",
+  "bounty": true,
+  "domains": [
+    "oasiscloud.io"
+  ]
+}

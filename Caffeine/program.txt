@@ -1,0 +1,8 @@
+{
+  "name": "Caffeine",
+  "url": "https://bugcrowd.com/caffeine",
+  "bounty": true,
+  "domains": [
+    "caffeine.tv"
+  ]
+}

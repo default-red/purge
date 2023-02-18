@@ -1,0 +1,9 @@
+{
+  "name": "Insulet Corporation",
+  "url": "https://hackerone.com/insulet_corporation",
+  "bounty": false,
+  "domains": [
+    "myomnipod.com",
+    "poddercentral.com"
+  ]
+}

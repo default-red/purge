@@ -1,0 +1,8 @@
+{
+  "name": "OpenSea",
+  "url": "https://hackerone.com/opensea",
+  "bounty": true,
+  "domains": [
+    "opensea.io"
+  ]
+}

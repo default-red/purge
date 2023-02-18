@@ -1,0 +1,23 @@
+{
+  "name": "Sophos",
+  "url": "https://bugcrowd.com/sophos",
+  "bounty": true,
+  "domains": [
+    "astaro.at",
+    "astaro.ch",
+    "astaro.com",
+    "astaro.de",
+    "astaro.info",
+    "astaro.net",
+    "astaro.org",
+    "cyberoam.com",
+    "fw-notify.net",
+    "hitmanpro.com",
+    "hitmanpro.nl",
+    "mojave.net",
+    "myastaro.com",
+    "reflexion.net",
+    "sophos.com",
+    "surfright.nl"
+  ]
+}

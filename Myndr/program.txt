@@ -1,0 +1,9 @@
+{
+  "name": "Myndr",
+  "url": "https://hackerone.com/myndr",
+  "bounty": false,
+  "domains": [
+    "myndr.net",
+    "myndr.nl"
+  ]
+}

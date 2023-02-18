@@ -1,0 +1,8 @@
+{
+  "name": "Passit",
+  "url": "https://hackerone.com/passit",
+  "bounty": false,
+  "domains": [
+    "passit.io"
+  ]
+}

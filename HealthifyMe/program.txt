@@ -1,0 +1,8 @@
+{
+  "name": "HealthifyMe",
+  "url": "https://bugcrowd.com/healthifyme",
+  "bounty": false,
+  "domains": [
+    "healthifyme.com"
+  ]
+}

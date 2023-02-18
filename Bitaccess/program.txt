@@ -1,0 +1,9 @@
+{
+  "name": "Bitaccess",
+  "url": "https://hackerone.com/bitaccess",
+  "bounty": false,
+  "domains": [
+    "bitaccessbtm.com",
+    "faa.st"
+  ]
+}

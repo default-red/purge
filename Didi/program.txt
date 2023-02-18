@@ -1,0 +1,12 @@
+{
+  "name": "Didi",
+  "url": "https://sec.didichuxing.com",
+  "bounty": false,
+  "domains": [
+    "didichuxing.com",
+    "xiaojukeji.com",
+    "didiglobal.com",
+    "udache.com",
+    "didiyun.com"
+  ]
+}

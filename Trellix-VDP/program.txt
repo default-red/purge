@@ -1,0 +1,10 @@
+{
+  "name": "Trellix VDP",
+  "url": "https://hackerone.com/trellix",
+  "bounty": false,
+  "swag": false,
+  "domains": [
+    "trellix.com",
+    "skyhighsecurity.com"
+  ]
+}

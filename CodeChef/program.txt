@@ -1,0 +1,9 @@
+{
+  "name": "CodeChef",
+  "url": "https://www.codechef.com/bug-bounty-program",
+  "bounty": true,
+  "swag": false,
+  "domains": [
+    "codechef.com"
+  ]
+}

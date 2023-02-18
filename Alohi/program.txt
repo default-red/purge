@@ -1,0 +1,10 @@
+{
+  "name": "Alohi",
+  "url": "https://hackerone.com/alohi",
+  "bounty": false,
+  "domains": [
+    "fax.plus",
+    "sign.plus",
+    "alohi.com"
+  ]
+}

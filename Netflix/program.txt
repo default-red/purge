@@ -1,0 +1,12 @@
+{
+  "name": "Netflix",
+  "url": "https://bugcrowd.com/netflix",
+  "bounty": true,
+  "domains": [
+    "nflxso.net",
+    "nflxext.com",
+    "nflxvideo.net",
+    "nflximg.net",
+    "netflix.com"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Connectis",
+  "url": "https://connectis.com/en/about-us/security/responsible-disclosure-policy/",
+  "bounty": false,
+  "domains": [
+    "connectis.com"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Reseller Club VDP Pro",
+  "url": "https://bugcrowd.com/newfold-resellerclub-vdp",
+  "bounty": false,
+  "domains": [
+    "resellerclub.com"
+  ]
+}

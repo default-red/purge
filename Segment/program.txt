@@ -1,0 +1,9 @@
+{
+  "name": "Segment",
+  "url": "https://bugcrowd.com/segment",
+  "bounty": true,
+  "domains": [
+    "segment.io",
+    "segment.com"
+  ]
+}

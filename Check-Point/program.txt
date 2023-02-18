@@ -1,0 +1,8 @@
+{
+  "name": "Check Point",
+  "url": "https://www.checkpoint.com/white-hat/",
+  "bounty": false,
+  "domains": [
+    "checkpoint.com"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Rewind",
+  "url": "https://rewind.com/legal/vulnerability-disclosure-policy",
+  "bounty": false,
+  "domains": [
+    "rewind.com",
+    "replay.sh"
+  ]
+}

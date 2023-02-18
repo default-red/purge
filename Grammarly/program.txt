@@ -1,0 +1,11 @@
+{
+  "name": "Grammarly",
+  "url": "https://hackerone.com/grammarly",
+  "bounty": true,
+  "domains": [
+    "grammarly.com",
+    "grammarly.ai",
+    "grammarly.io",
+    "grammarly.net"
+  ]
+}

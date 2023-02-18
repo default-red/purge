@@ -1,0 +1,13 @@
+{
+  "name": "Palo Alto Software",
+  "url": "https://hackerone.com/palo_alto_software",
+  "bounty": false,
+  "domains": [
+    "outpost.co",
+    "liveplan.com",
+    "bplans.com",
+    "mplans.com",
+    "paloalto.com",
+    "teamoutpost.com"
+  ]
+}

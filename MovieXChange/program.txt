@@ -1,0 +1,8 @@
+{
+  "name": "MovieXChange",
+  "url": "https://moviexchange.com/responsible-disclosure-policy/",
+  "bounty": false,
+  "domains": [
+    "moviexchange.com"
+  ]
+}

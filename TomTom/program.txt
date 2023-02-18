@@ -1,0 +1,10 @@
+{
+  "name": "TomTom",
+  "url": "https://hackerone.com/tomtom",
+  "bounty": false,
+  "domains": [
+    "tomtom.com",
+    "teleatlas.com",
+    "tomtomgroup.com"
+  ]
+}

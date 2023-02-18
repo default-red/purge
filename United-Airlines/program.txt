@@ -1,0 +1,9 @@
+{
+  "name": "United Airlines",
+  "url": "https://bugcrowd.com/united-vdp",
+  "bounty": true,
+  "domains": [
+    "united.com",
+    "ual.com"
+  ]
+}

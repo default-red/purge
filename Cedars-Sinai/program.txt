@@ -1,0 +1,15 @@
+{
+  "name": "Cedars-Sinai",
+  "url": "https://hackerone.com/cedars-sinai",
+  "bounty": false,
+  "swag": false,
+  "domains": [
+    "cedars-sinai.org",
+    "cshs.org",
+    "csmc.edu",
+    "mycslink.org",
+    "marinahospital.com",
+    "cedars-sinai.edu",
+    "kerlanjobe.org"
+  ]
+}

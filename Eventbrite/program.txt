@@ -1,0 +1,9 @@
+{
+  "name": "Eventbrite",
+  "url": "https://www.eventbrite.com/security/",
+  "bounty": false,
+  "domains": [
+    "eventbrite.com",
+    "eventbrite.nl"
+  ]
+}

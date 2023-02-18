@@ -1,0 +1,8 @@
+{
+  "name": "PureVPN",
+  "url": "https://www.purevpn.com/bug-bounty-program",
+  "bounty": true,
+  "domains": [
+    "purevpn.com"
+  ]
+}

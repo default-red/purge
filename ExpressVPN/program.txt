@@ -1,0 +1,10 @@
+{
+  "name": "ExpressVPN",
+  "url": "https://bugcrowd.com/expressvpn",
+  "bounty": true,
+  "domains": [
+    "expressvpn.com",
+    "xvservice.net",
+    "expressobutiolem.onion"
+  ]
+}

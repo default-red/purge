@@ -1,0 +1,8 @@
+{
+  "name": "Statuspage",
+  "url": "https://bugcrowd.com/statuspage",
+  "bounty": true,
+  "domains": [
+    "statuspage.io"
+  ]
+}

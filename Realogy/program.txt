@@ -1,0 +1,21 @@
+{
+  "name": "Realogy",
+  "url": "https://hackerone.com/realogy",
+  "bounty": false,
+  "domains": [
+    "realogy.com",
+    "bhgre.com",
+    "century21.com",
+    "coldwellbanker.com",
+    "cbcworldwide.com",
+    "corcoran.com",
+    "era.com",
+    "sothebysrealty.com",
+    "nrtllc.com",
+    "trgc.com",
+    "leadrouter.com",
+    "cartus.com",
+    "cbintouch.com",
+    "myzap.com"
+  ]
+}

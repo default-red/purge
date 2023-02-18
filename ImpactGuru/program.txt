@@ -1,0 +1,8 @@
+{
+  "name": "ImpactGuru",
+  "url": "https://www.impactguru.com/bug-bounty",
+  "bounty": true,
+  "domains": [
+    "impactguru.com"
+  ]
+}

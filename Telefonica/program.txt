@@ -1,0 +1,30 @@
+{
+  "name": "Telefonica",
+  "url": "https://bugcrowd.com/telefonicavdp",
+  "bounty": false,
+  "domains": [
+    "aetkasmart.de",
+    "alditalk-kundenbetreuung.de",
+    "ayyildiz.de",
+    "base.de",
+    "blau.de",
+    "blauworld.de",
+    "einfachprepaid.de",
+    "fonic-mobile.de",
+    "fonic.de",
+    "nettokom.de",
+    "netzclub.net",
+    "norma-mobil.de",
+    "nova-mobile.de",
+    "o2.com",
+    "o2.de",
+    "o2business.de",
+    "o2online.de",
+    "o2service.de",
+    "o2spin.de",
+    "ortelmobile.de",
+    "simfinity.de",
+    "turkei-sim.de",
+    "whatsappsim.de"
+  ]
+}

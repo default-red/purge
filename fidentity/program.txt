@@ -1,0 +1,8 @@
+{
+  "name": "fidentity",
+  "url": "https://gobugfree.com/programs/fidentity",
+  "bounty": true,
+  "domains": [
+    "fidentity.ch"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Stripo Inc",
+  "url": "https://hackerone.com/stripo",
+  "bounty": false,
+  "domains": [
+    "stripo.email"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Polymail",
+  "url": "https://hackerone.com/polymail_inc",
+  "bounty": false,
+  "domains": [
+    "polymail.app",
+    "polymail.io"
+  ]
+}

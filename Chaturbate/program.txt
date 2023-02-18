@@ -1,0 +1,10 @@
+{
+  "name": "Chaturbate",
+  "url": "https://hackerone.com/chaturbate",
+  "bounty": true,
+  "domains": [
+    "chaturbate.com",
+    "securegatewayaccess.com",
+    "highwebmedia.com"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Ninja Kiwi",
+  "url": "https://hackerone.com/ninja-kiwi",
+  "bounty": true,
+  "swag": false,
+  "domains": [
+    "ninjakiwi.com",
+    "battles.tv",
+    "nkstatic.com",
+    "ninja.kiwi"
+  ]
+}

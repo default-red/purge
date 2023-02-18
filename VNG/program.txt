@@ -1,0 +1,9 @@
+{
+  "name": "VNG",
+  "url": "https://vng.nl/kwetsbaarheid-melden",
+  "bounty": false,
+  "domains": [
+    "vng.nl",
+    "ondernemersfondsen.nl"
+  ]
+}

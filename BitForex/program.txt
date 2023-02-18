@@ -1,0 +1,8 @@
+{
+  "name": "BitForex",
+  "url": "https://hackenproof.com/bitforex/bitforex",
+  "bounty": true,
+  "domains": [
+    "bitforex.com"
+  ]
+}

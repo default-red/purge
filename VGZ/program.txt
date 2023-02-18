@@ -1,0 +1,8 @@
+{
+  "name": "VGZ",
+  "url": "https://app.zerocopter.com/nl/rd/bda542d5-c421-49f8-8e9c-5e70f5525673",
+  "bounty": false,
+  "domains": [
+    "vgz.nl"
+  ]
+}

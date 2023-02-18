@@ -1,0 +1,18 @@
+{
+  "name": "SEMrush",
+  "url": "https://hackerone.com/semrush",
+  "bounty": true,
+  "domains": [
+    "berush.com",
+    "semrush.com",
+    "labs-semrush.com",
+    "sellzone.com",
+    "semrush.net",
+    "semrushchina.cn",
+    "seoquake.com",
+    "hr-semrush.com",
+    "sellerly.com",
+    "seoab.io",
+    "scatec.io"
+  ]
+}

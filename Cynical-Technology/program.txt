@@ -1,0 +1,10 @@
+{
+  "name": "Cynical Technology",
+  "url": "https://app.bugv.io/researcher/program/0000006/detail",
+  "bounty": true,
+  "domains": [
+    "cynicaltechnology.com",
+    "cynicaltechnology.com.np",
+    "cynical.com.np"
+  ]
+}

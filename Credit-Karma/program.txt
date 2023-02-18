@@ -1,0 +1,9 @@
+{
+  "name": "Credit Karma",
+  "url": "https://hackerone.com/creditkarma",
+  "bounty": true,
+  "domains": [
+    "creditkarma.com",
+    "creditkarma.ca"
+  ]
+}

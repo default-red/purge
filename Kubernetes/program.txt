@@ -1,0 +1,10 @@
+{
+  "name": "Kubernetes",
+  "url": "https://hackerone.com/kubernetes",
+  "bounty": true,
+  "domains": [
+    "kubernetes.io",
+    "k8s.io",
+    "gcr.io"
+  ]
+}

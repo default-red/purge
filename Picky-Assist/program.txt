@@ -1,0 +1,8 @@
+{
+  "name": "Picky Assist",
+  "url": "https://pickyassist.com/blog/bug-bounty-program-bug-beacon/",
+  "bounty": true,
+  "domains": [
+    "pickyassist.com"
+  ]
+}

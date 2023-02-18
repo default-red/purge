@@ -1,0 +1,8 @@
+{
+  "name": "Acorns Grow",
+  "url": "https://bugcrowd.com/acorns",
+  "bounty": true,
+  "domains": [
+    "acorns.com"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "TTS Bug Bounty",
+  "url": "https://hackerone.com/tts",
+  "bounty": true,
+  "domains": [
+    "data.gov",
+    "18f.gov",
+    "cloud.gov",
+    "search.gov",
+    "vote.gov",
+    "fedramp.gov",
+    "usa.gov",
+    "gsa.gov",
+    "code.gov",
+    "login.gov"
+  ]
+}

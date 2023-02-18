@@ -1,0 +1,8 @@
+{
+  "name": "Insolar",
+  "url": "https://hackerone.com/insolar",
+  "bounty": true,
+  "domains": [
+    "insolar.io"
+  ]
+}

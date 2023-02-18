@@ -1,0 +1,9 @@
+{
+  "name": "Issuu",
+  "url": "https://issuu.com/responsible-disclosure",
+  "bounty": false,
+  "swag": true,
+  "domains": [
+    "issuu.com"
+  ]
+}

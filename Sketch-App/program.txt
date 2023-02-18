@@ -1,0 +1,9 @@
+{
+  "name": "Sketch App",
+  "url": "https://www.sketch.com/security/disclosure/",
+  "bounty": false,
+  "swag": true,
+  "domains": [
+    "sketch.com"
+  ]
+}

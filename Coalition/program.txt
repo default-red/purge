@@ -1,0 +1,8 @@
+{
+  "name": "Coalition",
+  "url": "https://hackerone.com/coalition",
+  "bounty": false,
+  "domains": [
+    "thecoalition.com"
+  ]
+}

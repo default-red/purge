@@ -1,0 +1,10 @@
+{
+  "name": "Lyst",
+  "url": "https://hackerone.com/lyst",
+  "bounty": true,
+  "domains": [
+    "lystit.com",
+    "lyst.com",
+    "lyst.co"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "PayPal",
+  "url": "https://hackerone.com/paypal",
+  "bounty": true,
+  "swag": true,
+  "domains": [
+    "paypal.here",
+    "paypal.me",
+    "swiftfinancial.com",
+    "paydiant.com",
+    "braintreegateway.com",
+    "braintree-api.com",
+    "paypalobjects.com",
+    "braintree.tools",
+    "paypal.com",
+    "py.pl",
+    "braintreepayments.com",
+    "venmo.com",
+    "swiftcapital.com",
+    "loanbuilder.com",
+    "xoom.com",
+    "xoom.app"
+  ]
+}

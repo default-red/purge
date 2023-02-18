@@ -1,0 +1,8 @@
+{
+  "name": "Republik AG",
+  "url": "https://gobugfree.com/programs/republik",
+  "bounty": true,
+  "domains": [
+    "republik.ch"
+  ]
+}

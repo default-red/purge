@@ -1,0 +1,8 @@
+{
+  "name": "Monolith",
+  "url": "https://hackerone.com/monolith",
+  "bounty": true,
+  "domains": [
+    "tkn.zone"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Delight.im",
+  "url": "https://hackerone.com/delight_im",
+  "bounty": false,
+  "domains": [
+    "briefe.io",
+    "delight.im",
+    "moviecontentfilter.com"
+  ]
+}

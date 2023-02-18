@@ -1,0 +1,9 @@
+{
+  "name": "Stellantis",
+  "url": "https://bugcrowd.com/stellantis",
+  "bounty": true,
+  "domains": [
+    "driveuconnect.com",
+    "driveuconnect.eu"
+  ]
+}

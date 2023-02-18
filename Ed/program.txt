@@ -1,0 +1,12 @@
+{
+  "name": "Ed",
+  "url": "https://hackerone.com/ed",
+  "bounty": false,
+  "domains": [
+    "bugbountyguide.com",
+    "cryptojourney.com",
+    "edoverflow.com",
+    "securitytxt.org",
+    "wewriteyour.report"
+  ]
+}

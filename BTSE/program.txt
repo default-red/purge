@@ -1,0 +1,8 @@
+{
+  "name": "BTSE",
+  "url": "https://hackenproof.com/btse/btse-bug-bounty-program",
+  "bounty": true,
+  "domains": [
+    "btse.com"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Port of Antwerp",
+  "url": "https://app.intigriti.com/programs/portofantwerp/portofantwerp/detail",
+  "bounty": false,
+  "domains": [
+    "c-point.be",
+    "portofantwerp.com"
+  ]
+}

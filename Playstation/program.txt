@@ -1,0 +1,10 @@
+{
+  "name": "Playstation",
+  "url": "https://hackerone.com/playstation",
+  "bounty": true,
+  "domains": [
+    "playstation.net",
+    "sonyentertainmentnetwork.com",
+    "playstation.com"
+  ]
+}

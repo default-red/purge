@@ -1,0 +1,11 @@
+{
+  "name": "LocalTapiola",
+  "url": "https://hackerone.com/localtapiola",
+  "bounty": true,
+  "domains": [
+    "lahitapiola.fi",
+    "lahitapiola.mobile",
+    "lahitapiolarahoitus.fi",
+    "tapiola.fi"
+  ]
+}

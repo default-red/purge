@@ -1,0 +1,10 @@
+{
+  "name": "Crypto.com",
+  "url": "https://hackerone.com/crypto",
+  "bounty": true,
+  "domains": [
+    "mona.co",
+    "monaco.mobile",
+    "crypto.com"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Playtech",
+  "url": "https://www.playtech.com/contact-us/security-inquiry",
+  "bounty": false,
+  "domains": [
+    "playtech.com"
+  ]
+}

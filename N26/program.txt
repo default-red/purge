@@ -1,0 +1,9 @@
+{
+  "name": "N26",
+  "url": "https://n26.com/en-eu/bug-bounty-program",
+  "bounty": true,
+  "domains": [
+    "tech26.de",
+    "n26.com"
+  ]
+}

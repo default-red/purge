@@ -1,0 +1,8 @@
+{
+  "name": "OKX",
+  "url": "https://hackenproof.com/okx-1/okx",
+  "bounty": true,
+  "domains": [
+    "okx.com"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Circle",
+  "url": "https://hackerone.com/circle",
+  "bounty": false,
+  "domains": [
+    "circle.com"
+  ]
+}

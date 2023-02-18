@@ -1,0 +1,9 @@
+{
+  "name": "DigitalOcean",
+  "url": "https://hackerone.com/digitalocean",
+  "bounty": false,
+  "domains": [
+    "digitaloceanspaces.com",
+    "digitalocean.com"
+  ]
+}

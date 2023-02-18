@@ -1,0 +1,8 @@
+{
+  "name": "Bluesnap",
+  "url": "https://home.bluesnap.com/security-bounty/",
+  "bounty": true,
+  "domains": [
+    "bluesnap.com"
+  ]
+}

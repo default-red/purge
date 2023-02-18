@@ -1,0 +1,9 @@
+{
+  "name": "Riot Games",
+  "url": "https://hackerone.com/riot/",
+  "bounty": true,
+  "swag": false,
+  "domains": [
+    "riotgames.com"
+  ]
+}

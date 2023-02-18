@@ -1,0 +1,8 @@
+{
+  "name": "Shipt",
+  "url": "https://hackerone.com/shipt",
+  "bounty": false,
+  "domains": [
+    "shipt.com"
+  ]
+}

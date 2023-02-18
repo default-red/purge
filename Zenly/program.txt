@@ -1,0 +1,9 @@
+{
+  "name": "Zenly",
+  "url": "https://hackerone.com/zenly",
+  "bounty": true,
+  "domains": [
+    "znly.co",
+    "zen.ly"
+  ]
+}

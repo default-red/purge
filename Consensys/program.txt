@@ -1,0 +1,9 @@
+{
+  "name": "Consensys",
+  "url": "https://hackerone.com/consensys",
+  "bounty": true,
+  "domains": [
+    "consensys.net",
+    "nfura.io"
+  ]
+}

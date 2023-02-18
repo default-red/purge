@@ -1,0 +1,17 @@
+{
+  "name": "Twitter",
+  "url": "https://hackerone.com/twitter",
+  "bounty": true,
+  "domains": [
+    "mopub.com",
+    "pscp.tv",
+    "periscope.tv",
+    "niche.co",
+    "twitterflightschool.com",
+    "twimg.com",
+    "vine.co",
+    "twitter.com",
+    "gnip.com",
+    "snappytv.com"
+  ]
+}

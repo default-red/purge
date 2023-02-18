@@ -1,0 +1,8 @@
+{
+  "name": "Payoneer",
+  "url": "https://hackerone.com/payoneer",
+  "bounty": true,
+  "domains": [
+    "payoneer.com"
+  ]
+}

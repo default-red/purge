@@ -1,0 +1,8 @@
+{
+  "name": "JOJO",
+  "url": "https://hackenproof.com/jojo/jojo-web",
+  "bounty": true,
+  "domains": [
+    "jojo.exchange"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "IRCCloud",
+  "url": "https://hackerone.com/irccloud",
+  "bounty": true,
+  "domains": [
+    "irccloud.com",
+    "irccloud-cdn.com"
+  ]
+}

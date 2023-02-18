@@ -1,0 +1,8 @@
+{
+  "name": "Stox",
+  "url": "https://www.stox.com/bounty/",
+  "bounty": true,
+  "domains": [
+    "stox.com"
+  ]
+}

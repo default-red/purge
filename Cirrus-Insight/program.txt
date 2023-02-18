@@ -1,0 +1,10 @@
+{
+  "name": "Cirrus Insight",
+  "url": "https://hackerone.com/cirrusinsight",
+  "bounty": false,
+  "domains": [
+    "cirrusinsight.com",
+    "cirruspath.com",
+    "zynbitdev.com"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Origin Energy",
+  "url": "https://bugcrowd.com/originenergy-og1",
+  "bounty": true,
+  "domains": [
+    "origindigital-pac.com.au",
+    "odcdn.com.au",
+    "originenergy.com.au"
+  ]
+}

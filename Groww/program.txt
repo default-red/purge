@@ -1,0 +1,8 @@
+{
+  "name": "Groww",
+  "url": "https://groww.in/p/security/",
+  "bounty": true,
+  "domains": [
+    "groww.in"
+  ]
+}

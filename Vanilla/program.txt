@@ -1,0 +1,12 @@
+{
+  "name": "Vanilla",
+  "url": "https://hackerone.com/vanilla",
+  "bounty": true,
+  "domains": [
+    "vanilladevelopment.com",
+    "vanillacommunities.com",
+    "vanillaforums.com",
+    "vanillastaging.com",
+    "vanillacommunity.com"
+  ]
+}

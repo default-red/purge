@@ -1,0 +1,9 @@
+{
+  "name": "Blockchain",
+  "url": "https://hackerone.com/blockchain",
+  "bounty": true,
+  "domains": [
+    "blockchain.com",
+    "blockchain.info"
+  ]
+}

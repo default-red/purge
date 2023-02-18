@@ -1,0 +1,8 @@
+{
+  "name": "Socrata",
+  "url": "https://bugcrowd.com/tyler-tech-data-insights",
+  "bounty": true,
+  "domains": [
+    "test-socrata.com"
+  ]
+}

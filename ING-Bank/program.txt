@@ -1,0 +1,9 @@
+{
+  "name": "ING Bank",
+  "url": "https://hackerone.com/ing",
+  "bounty": true,
+  "domains": [
+    "ing.com",
+    "ing.nl"
+  ]
+}

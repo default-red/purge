@@ -1,0 +1,8 @@
+{
+  "name": "MongoDB",
+  "url": "https://hackerone.com/mongodb",
+  "bounty": true,
+  "domains": [
+    "mongodb.com"
+  ]
+}

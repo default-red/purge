@@ -1,0 +1,12 @@
+{
+  "name": "HackerOne",
+  "url": "https://hackerone.com/security",
+  "bounty": true,
+  "domains": [
+    "hacker101.com",
+    "hackerone-user-content.com",
+    "hackerone.net",
+    "hackerone.com",
+    "hackerone-ext-content.com"
+  ]
+}

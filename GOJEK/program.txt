@@ -1,0 +1,13 @@
+{
+  "name": "GOJEK",
+  "url": "https://hackerone.com/gojek",
+  "bounty": true,
+  "domains": [
+    "gojekapi.com",
+    "gopayapi.com",
+    "findaya.com",
+    "findaya.co.id",
+    "mab.co.id",
+    "gojek.co.id"
+  ]
+}

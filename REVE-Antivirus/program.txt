@@ -1,0 +1,9 @@
+{
+  "name": "REVE Antivirus",
+  "url": "https://www.reveantivirus.com/in/bug-bounty-program",
+  "bounty": false,
+  "swag": true,
+  "domains": [
+    "reveantivirus.com"
+  ]
+}

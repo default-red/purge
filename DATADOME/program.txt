@@ -1,0 +1,8 @@
+{
+  "name": "DATADOME",
+  "url": "https://yeswehack.com/programs/datadome-bug-bounty",
+  "bounty": true,
+  "domains": [
+    "datadome.co"
+  ]
+}

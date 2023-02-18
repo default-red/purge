@@ -1,0 +1,9 @@
+{
+  "name": "GitLab",
+  "url": "https://hackerone.com/gitlab",
+  "bounty": true,
+  "domains": [
+    "gitter.im",
+    "gitlab.com"
+  ]
+}

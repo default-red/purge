@@ -1,0 +1,8 @@
+{
+  "name": "SAP Concur",
+  "url": "https://bugcrowd.com/concur",
+  "bounty": false,
+  "domains": [
+    "tripit.com"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Nike",
+  "url": "https://www.nike.com/help/a/responsible-disclosure",
+  "bounty": false,
+  "domains": [
+    "nike.com",
+    "converse.com",
+    "nike.net"
+  ]
+}

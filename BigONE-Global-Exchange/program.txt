@@ -1,0 +1,9 @@
+{
+  "name": "BigONE Global Exchange",
+  "url": "https://hackenproof.com/bigone-global-exchange/bigone-global-exchange",
+  "bounty": true,
+  "domains": [
+    "big.one",
+    "bigone.com"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "AVROTROS",
+  "url": "https://www.avrotros.nl/privacy/responsible-disclosure/",
+  "bounty": true,
+  "domains": [
+    "avrotros.nl"
+  ]
+}

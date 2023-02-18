@@ -1,0 +1,13 @@
+{
+  "name": "Maximum",
+  "url": "https://hackerone.com/maximum",
+  "bounty": false,
+  "domains": [
+    "evonik.com",
+    "devmaximum.com",
+    "maximum.nl",
+    "werkenbijdefensie.nl",
+    "werkenbijderet.nl",
+    "werkenbijbakertilly.nl"
+  ]
+}

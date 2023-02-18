@@ -1,0 +1,9 @@
+{
+  "name": "Zynga",
+  "url": "https://www.zynga.com/security/whitehats/",
+  "bounty": false,
+  "domains": [
+    "zynga.com",
+    "zyngagames.com"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "SMTP2GO",
+  "url": "https://hackerone.com/smtp2go",
+  "bounty": false,
+  "domains": [
+    "smtp2go.com"
+  ]
+}

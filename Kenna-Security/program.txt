@@ -1,0 +1,8 @@
+{
+  "name": "Kenna Security",
+  "url": "https://bugcrowd.com/kennasecurity",
+  "bounty": true,
+  "domains": [
+    "kennasecurity.com"
+  ]
+}

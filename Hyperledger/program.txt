@@ -1,0 +1,8 @@
+{
+  "name": "Hyperledger",
+  "url": "https://hackerone.com/hyperledger",
+  "bounty": true,
+  "domains": [
+    "hyperledger.org"
+  ]
+}

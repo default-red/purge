@@ -1,0 +1,6 @@
+{
+  "name": "JNJ Mobile",
+  "url": "https://hackerone.com/jnj_mobile",
+  "bounty": false,
+  "domains": []
+}

@@ -1,0 +1,8 @@
+{
+  "name": "MobiSystems Ltd",
+  "url": "https://hackerone.com/mobisystems_ltd",
+  "bounty": false,
+  "domains": [
+    "mobisystems.office"
+  ]
+}

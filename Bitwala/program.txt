@@ -1,0 +1,9 @@
+{
+  "name": "Bitwala",
+  "url": "https://hackerone.com/bitwala",
+  "bounty": false,
+  "domains": [
+    "bitwala.com",
+    "bitwala.app"
+  ]
+}

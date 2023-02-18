@@ -1,0 +1,14 @@
+{
+  "name": "Naspers",
+  "url": "https://bugcrowd.com/naspers",
+  "bounty": false,
+  "domains": [
+    "naspers.co",
+    "naspers.co.in",
+    "naspers.com",
+    "naspers.fr",
+    "naspers.us",
+    "naspersventures.com",
+    "prosus.com"
+  ]
+}

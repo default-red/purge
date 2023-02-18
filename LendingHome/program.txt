@@ -1,0 +1,11 @@
+{
+  "name": "LendingHome",
+  "url": "https://hackerone.com/lendinghome",
+  "bounty": false,
+  "domains": [
+    "lhcapitalmanagement.com",
+    "lhcapital-matrix.com",
+    "lendinghome.com",
+    "lh-matrix.com"
+  ]
+}

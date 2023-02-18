@@ -1,0 +1,8 @@
+{
+  "name": "Coursera",
+  "url": "https://hackerone.com/coursera",
+  "bounty": false,
+  "domains": [
+    "coursera.org"
+  ]
+}

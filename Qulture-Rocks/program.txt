@@ -1,0 +1,8 @@
+{
+  "name": "Qulture.Rocks",
+  "url": "https://hackerone.com/qulture_rocks",
+  "bounty": false,
+  "domains": [
+    "qulture.rocks"
+  ]
+}

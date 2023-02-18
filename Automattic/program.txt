@@ -1,0 +1,13 @@
+{
+  "name": "Automattic",
+  "url": "https://hackerone.com/automattic",
+  "bounty": true,
+  "domains": [
+    "intensedebate.com",
+    "simplenote.com",
+    "happy.tools",
+    "simperium.com",
+    "akismet.com",
+    "mailpoet.com"
+  ]
+}

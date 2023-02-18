@@ -1,0 +1,12 @@
+{
+  "name": "SoundCloud",
+  "url": "https://bugcrowd.com/soundcloud",
+  "bounty": true,
+  "domains": [
+    "repostnetwork.com",
+    "soundcloud.com",
+    "soundcloudmail.com",
+    "soundcloud.org",
+    "s-cloud.net"
+  ]
+}

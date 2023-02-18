@@ -1,0 +1,6 @@
+{
+  "name": "People Interactive",
+  "url": "https://hackerone.com/people_interactive",
+  "bounty": false,
+  "domains": []
+}

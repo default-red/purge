@@ -1,0 +1,9 @@
+{
+  "name": "Legal Robot",
+  "url": "https://hackerone.com/legalrobot",
+  "bounty": true,
+  "domains": [
+    "legalrobot-test.com",
+    "legalrobot.com"
+  ]
+}

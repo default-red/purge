@@ -1,0 +1,8 @@
+{
+  "name": "MariaDB",
+  "url": "https://hackerone.com/mariadb",
+  "bounty": false,
+  "domains": [
+    "mariadb.org"
+  ]
+}

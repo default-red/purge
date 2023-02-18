@@ -1,0 +1,8 @@
+{
+  "name": "BitDiscovery",
+  "url": "https://bugcrowd.com/bitdiscovery",
+  "bounty": true,
+  "domains": [
+    "bitdiscovery.com"
+  ]
+}

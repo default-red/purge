@@ -1,0 +1,11 @@
+{
+  "name": "MoonPay",
+  "url": "https://hackerone.com/moonpay",
+  "bounty": true,
+  "swag": false,
+  "domains": [
+    "moonpaycloud.com",
+    "hypermint.com",
+    "moonpay.com"
+  ]
+}

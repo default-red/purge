@@ -1,0 +1,9 @@
+{
+  "name": "InvestNext",
+  "url": "https://hackerone.com/investnext",
+  "bounty": false,
+  "domains": [
+    "investnextdemo.co",
+    "investnext.com"
+  ]
+}

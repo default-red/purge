@@ -1,0 +1,9 @@
+{
+  "name": "HackerRank",
+  "url": "https://www.hackerrank.com/trust/security",
+  "bounty": false,
+  "swag": true,
+  "domains": [
+    "hackerrank.com"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "RATELIMITED",
+  "url": "https://hackerone.com/ratelimited",
+  "bounty": false,
+  "domains": [
+    "ratelimited.me"
+  ]
+}

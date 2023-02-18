@@ -1,0 +1,8 @@
+{
+  "name": "Deutsche Bank",
+  "url": "https://bugcrowd.com/deutschebank-vdp",
+  "bounty": false,
+  "domains": [
+    "db.com"
+  ]
+}

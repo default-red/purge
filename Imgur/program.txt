@@ -1,0 +1,8 @@
+{
+  "name": "Imgur",
+  "url": "https://hackerone.com/imgur",
+  "bounty": true,
+  "domains": [
+    "imgur.com"
+  ]
+}

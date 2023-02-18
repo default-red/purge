@@ -1,0 +1,10 @@
+{
+  "name": "Urban Company",
+  "url": "https://hackerone.com/urbancompany",
+  "bounty": true,
+  "swag": true,
+  "domains": [
+    "urbancompany.com",
+    "urbanclap.com"
+  ]
+}

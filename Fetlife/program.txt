@@ -1,0 +1,8 @@
+{
+  "name": "Fetlife",
+  "url": "https://hackerone.com/fetlife",
+  "bounty": true,
+  "domains": [
+    "fetlife.com"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "The Walt Disney Company",
+  "url": "https://hackerone.com/disney",
+  "bounty": false,
+  "domains": [
+    "thewaltdisneycompany.com",
+    "waltdisneystudios.com",
+    "disneyanimation.com",
+    "pixar.com",
+    "marvel.com",
+    "lucasfilm.com",
+    "disneyplus.com",
+    "espn.com",
+    "disney.com",
+    "disneyconnect.com",
+    "disneynow.com",
+    "startv.com",
+    "hotstar.com",
+    "fxnetworks.com",
+    "abc.com"
+  ]
+}

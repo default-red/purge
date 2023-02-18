@@ -1,0 +1,8 @@
+{
+  "name": "Bentley",
+  "url": "https://www.bentley.com/wp-content/uploads/responsible-disclosure.pdf",
+  "bounty": true,
+  "domains": [
+    "bentley.com"
+  ]
+}

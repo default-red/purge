@@ -1,0 +1,14 @@
+{
+  "name": "WordPress",
+  "url": "https://hackerone.com/wordpress",
+  "bounty": false,
+  "domains": [
+    "wordcamp.org",
+    "wordpress.net",
+    "bbpress.org",
+    "doaction.org",
+    "buddypress.org",
+    "wordpress.org",
+    "wordpressfoundation.org"
+  ]
+}

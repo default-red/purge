@@ -1,0 +1,8 @@
+{
+  "name": "Pantheon",
+  "url": "https://bugcrowd.com/pantheon",
+  "bounty": true,
+  "domains": [
+    "pantheon.io"
+  ]
+}

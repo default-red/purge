@@ -1,0 +1,9 @@
+{
+  "name": "Lob",
+  "url": "https://hackerone.com/lob",
+  "bounty": true,
+  "domains": [
+    "lob.com",
+    "lob-assets.com"
+  ]
+}

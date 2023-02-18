@@ -1,0 +1,10 @@
+{
+  "name": "OVO",
+  "url": "https://yeswehack.com/programs/ovo-bug-bounty-program",
+  "bounty": true,
+  "swag": false,
+  "domains": [
+    "ovo.id",
+    "taralite.com"
+  ]
+}

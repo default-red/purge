@@ -1,0 +1,10 @@
+{
+  "name": "Vimeo",
+  "url": "https://hackerone.com/vimeo",
+  "bounty": true,
+  "domains": [
+    "vimeopro.com",
+    "vimeo.com",
+    "vhx.tv"
+  ]
+}

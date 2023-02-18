@@ -1,0 +1,14 @@
+{
+  "name": "StackPath",
+  "url": "https://bugcrowd.com/stackpath",
+  "bounty": false,
+  "domains": [
+    "highwinds.com",
+    "maxcdn.com",
+    "maxcdn.net",
+    "serverdensity.com",
+    "stackpath.com",
+    "stackpath.dev",
+    "stackpath.net"
+  ]
+}

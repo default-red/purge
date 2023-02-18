@@ -1,0 +1,23 @@
+{
+  "name": "MasterCard VDP",
+  "url": "https://bugcrowd.com/mastercard-vdp",
+  "bounty": false,
+  "domains": [
+    "priceless.com",
+    "mastercard.com",
+    "bezcenneniespodzianki.pl",
+    "citypossible.com",
+    "mastercard.com.au",
+    "investmentmojo.com",
+    "mastercard.com.br",
+    "mastercard-lounge.cz",
+    "mastercardbiz.com",
+    "mastercard.co.za",
+    "no-minimums.com.au",
+    "pricelessspecials.nl",
+    "pricelesssurprises.com",
+    "taptotokyo.com",
+    "tasteofpremium.jp",
+    "mastercardbiz.ca"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "MediaMarktSaturn",
+  "url": "https://vdp.mediamarktsaturn.com/p/Submission-Form",
+  "bounty": false,
+  "domains": [
+    "mediamarkt.at",
+    "mediamarkt.be",
+    "mediamarkt.ch",
+    "mediamarkt.com.tr",
+    "mediamarkt.de",
+    "mediamarkt.es",
+    "mediamarkt.gr",
+    "mediamarkt.hu",
+    "mediamarkt.nl",
+    "mediamarkt.pl",
+    "mediamarkt.pt",
+    "mediamarkt.se",
+    "mediaworld.it",
+    "saturn.at",
+    "saturn.de",
+    "saturn.lu"
+  ]
+}

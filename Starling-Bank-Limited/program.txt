@@ -1,0 +1,8 @@
+{
+  "name": "Starling Bank Limited",
+  "url": "https://hackerone.com/starling_bank",
+  "bounty": false,
+  "domains": [
+    "starlingbank.com"
+  ]
+}

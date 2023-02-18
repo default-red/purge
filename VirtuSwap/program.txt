@@ -1,0 +1,8 @@
+{
+  "name": "VirtuSwap",
+  "url": "https://hackenproof.com/virtuswap/virtuswap-dex-app-1",
+  "bounty": true,
+  "domains": [
+    "virtuswap.io"
+  ]
+}

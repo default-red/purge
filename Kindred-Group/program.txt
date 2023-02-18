@@ -1,0 +1,23 @@
+{
+  "name": "Kindred Group",
+  "url": "https://hackerone.com/kindred_group",
+  "bounty": true,
+  "domains": [
+    "bingo.com",
+    "casinohuone.com",
+    "mariacasino.com",
+    "unibet.casino",
+    "storspiller.com",
+    "kolikkopelit.com",
+    "unibet.com",
+    "32red.com",
+    "unibet.fr",
+    "kindredext.net",
+    "ottokasino.com",
+    "stly.eu",
+    "maria.casino",
+    "unibet.me",
+    "vladcazino.ro",
+    "igame.com"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Parrot Sec",
+  "url": "https://hackerone.com/parrot_sec",
+  "bounty": false,
+  "domains": [
+    "parrot.sh"
+  ]
+}

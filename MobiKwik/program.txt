@@ -1,0 +1,9 @@
+{
+  "name": "MobiKwik",
+  "url": "https://www.mobikwik.com/bug-bounty/guidelines",
+  "bounty": true,
+  "swag": false,
+  "domains": [
+    "mobikwik.com"
+  ]
+}

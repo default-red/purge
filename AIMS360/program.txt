@@ -1,0 +1,9 @@
+{
+  "name": "AIMS360",
+  "url": "https://www.aims360.com/vulnerability-responses/",
+  "bounty": false,
+  "swag": false,
+  "domains": [
+    "aims360.com"
+  ]
+}

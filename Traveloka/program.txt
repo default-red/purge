@@ -1,0 +1,8 @@
+{
+  "name": "Traveloka",
+  "url": "https://www.traveloka.com/en-id/bugs",
+  "bounty": true,
+  "domains": [
+    "traveloka.com"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Bunq VDP",
+  "url": "https://hackerone.com/bunq",
+  "bounty": false,
+  "domains": [
+    "bunq.com"
+  ]
+}

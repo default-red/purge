@@ -1,0 +1,9 @@
+{
+  "name": "Rakuten",
+  "url": "https://bugcrowd.com/rakuten-vdp",
+  "bounty": false,
+  "swag": false,
+  "domains": [
+    "rakuten.com"
+  ]
+}

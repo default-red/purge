@@ -1,0 +1,8 @@
+{
+  "name": "ShapeShift",
+  "url": "https://hackenproof.com/fox-foundation/shapeshift",
+  "bounty": true,
+  "domains": [
+    "shapeshift.com"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Coinbase",
+  "url": "https://hackerone.com/coinbase",
+  "bounty": true,
+  "domains": [
+    "coinbase.pro",
+    "coinbase.com",
+    "cbhq.net",
+    "paradex.io"
+  ]
+}

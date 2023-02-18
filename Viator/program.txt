@@ -1,0 +1,9 @@
+{
+  "name": "Viator",
+  "url": "https://bugcrowd.com/viator",
+  "bounty": true,
+  "domains": [
+    "viator.com",
+    "viatorinc.com"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "FireEye",
+  "url": "https://www.fireeye.com/company/security.html",
+  "bounty": false,
+  "swag": false,
+  "domains": [
+    "fireeye.com"
+  ]
+}

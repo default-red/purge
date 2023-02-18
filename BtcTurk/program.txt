@@ -1,0 +1,9 @@
+{
+  "name": "BtcTurk",
+  "url": "https://www.btcturk.com/odul-avciligi",
+  "bounty": true,
+  "swag": false,
+  "domains": [
+    "btcturk.com"
+  ]
+}

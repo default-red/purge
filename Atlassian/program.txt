@@ -1,0 +1,9 @@
+{
+  "name": "Atlassian",
+  "url": "https://bugcrowd.com/atlassian",
+  "bounty": true,
+  "domains": [
+    "atlassian.net",
+    "atlassian.com"
+  ]
+}

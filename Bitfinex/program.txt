@@ -1,0 +1,8 @@
+{
+  "name": "Bitfinex",
+  "url": "https://www.bitfinex.com/bug-bounty/",
+  "bounty": true,
+  "domains": [
+    "bitfinex.com"
+  ]
+}

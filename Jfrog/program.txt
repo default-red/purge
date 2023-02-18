@@ -1,0 +1,10 @@
+{
+  "name": "Jfrog",
+  "url": "https://hackerone.com/jfrog",
+  "bounty": false,
+  "swag": false,
+  "domains": [
+    "jfrog.com",
+    "jfrog.org"
+  ]
+}

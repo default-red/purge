@@ -1,0 +1,11 @@
+{
+  "name": "Huawei",
+  "url": "https://bugbounty.huawei.com/hbp/#/program",
+  "bounty": false,
+  "domains": [
+    "hicloud.com",
+    "vmall.com",
+    "huawei.com",
+    "huaweicloud.com"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Sprout Social",
+  "url": "https://bugcrowd.com/sproutsocial",
+  "bounty": false,
+  "domains": [
+    "sproutsocial.com",
+    "getbambu.com",
+    "simplymeasured.com"
+  ]
+}

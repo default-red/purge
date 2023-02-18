@@ -1,0 +1,8 @@
+{
+  "name": "Top Coder",
+  "url": "https://hackerone.com/topcoder",
+  "bounty": false,
+  "domains": [
+    "topcoder.com"
+  ]
+}

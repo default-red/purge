@@ -1,0 +1,8 @@
+{
+  "name": "Kuna Crypto Exchange",
+  "url": "https://hackenproof.com/kuna/kuna-crypto-exchange",
+  "bounty": true,
+  "domains": [
+    "kuna.io"
+  ]
+}

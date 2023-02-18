@@ -1,0 +1,8 @@
+{
+  "name": "Eerste Kamer",
+  "url": "https://www.eerstekamer.nl/begrip/responsible_disclosure",
+  "bounty": false,
+  "domains": [
+    "eerstekamer.nl"
+  ]
+}

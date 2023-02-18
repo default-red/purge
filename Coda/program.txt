@@ -1,0 +1,8 @@
+{
+  "name": "Coda",
+  "url": "https://hackerone.com/coda_bbp",
+  "bounty": true,
+  "domains": [
+    "coda.io"
+  ]
+}

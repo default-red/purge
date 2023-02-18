@@ -1,0 +1,9 @@
+{
+  "name": "Paymill",
+  "url": "https://www.paymill.com/en/security/",
+  "bounty": false,
+  "swag": true,
+  "domains": [
+    "paymill.com"
+  ]
+}

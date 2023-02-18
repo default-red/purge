@@ -1,0 +1,8 @@
+{
+  "name": "Eobot",
+  "url": "https://hackerone.com/eobotcom",
+  "bounty": true,
+  "domains": [
+    "eobot.com"
+  ]
+}

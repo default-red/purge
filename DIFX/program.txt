@@ -1,0 +1,8 @@
+{
+  "name": "DIFX",
+  "url": "https://hackenproof.com/difx/difx",
+  "bounty": true,
+  "domains": [
+    "difx.com"
+  ]
+}

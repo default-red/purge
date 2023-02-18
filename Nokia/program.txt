@@ -1,0 +1,8 @@
+{
+  "name": "Nokia",
+  "url": "https://www.nokia.com/responsible-disclosure/",
+  "bounty": false,
+  "domains": [
+    "nokia.com"
+  ]
+}

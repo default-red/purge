@@ -1,0 +1,8 @@
+{
+  "name": "Coin98",
+  "url": "https://hackenproof.com/coin98/coin98",
+  "bounty": true,
+  "domains": [
+    "coin98.com"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Avalanche",
+  "url": "https://hackenproof.com/avalanche",
+  "bounty": true,
+  "domains": [
+    "avalabs.org",
+    "avax.network",
+    "avax-test.network",
+    "avax-dev.network"
+  ]
+}

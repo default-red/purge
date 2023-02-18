@@ -1,0 +1,9 @@
+{
+  "name": "Wealthsimple",
+  "url": "https://hackerone.com/wealthsimple",
+  "bounty": true,
+  "domains": [
+    "wealthsimple.com",
+    "simpletax.ca"
+  ]
+}

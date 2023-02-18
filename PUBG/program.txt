@@ -1,0 +1,9 @@
+{
+  "name": "PUBG",
+  "url": "https://hackerone.com/pubg",
+  "bounty": false,
+  "domains": [
+    "pubg.com",
+    "pubgesports.com"
+  ]
+}

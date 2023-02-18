@@ -1,0 +1,8 @@
+{
+  "name": "Kartpay",
+  "url": "https://hackerone.com/kartpay",
+  "bounty": false,
+  "domains": [
+    "kartpay.com"
+  ]
+}

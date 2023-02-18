@@ -1,0 +1,10 @@
+{
+  "name": "Vivo",
+  "url": "https://security.vivo.com.cn/#/home",
+  "bounty": true,
+  "domains": [
+    "vivo.com",
+    "vivo.xyz",
+    "vivo.cn"
+  ]
+}

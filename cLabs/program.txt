@@ -1,0 +1,9 @@
+{
+  "name": "cLabs",
+  "url": "https://app.intigriti.com/programs/clabs/clabs/detail",
+  "bounty": true,
+  "swag": false,
+  "domains": [
+    "celo.org"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "OneTrust",
+  "url": "https://bugcrowd.com/onetrust",
+  "bounty": true,
+  "domains": [
+    "onetrust.com"
+  ]
+}

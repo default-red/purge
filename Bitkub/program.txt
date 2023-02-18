@@ -1,0 +1,8 @@
+{
+  "name": "Bitkub",
+  "url": "https://hackenproof.com/bitkub/bitkub",
+  "bounty": true,
+  "domains": [
+    "bitkub.com"
+  ]
+}

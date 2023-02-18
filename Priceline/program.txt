@@ -1,0 +1,10 @@
+{
+  "name": "Priceline",
+  "url": "https://hackerone.com/priceline",
+  "bounty": true,
+  "domains": [
+    "rezserver.com",
+    "priceline.com",
+    "bookingholdings.com"
+  ]
+}

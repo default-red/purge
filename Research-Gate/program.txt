@@ -1,0 +1,8 @@
+{
+  "name": "Research Gate",
+  "url": "https://explore.researchgate.net/display/support/Security+and+vulnerability",
+  "bounty": true,
+  "domains": [
+    "researchgate.net"
+  ]
+}

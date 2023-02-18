@@ -1,0 +1,19 @@
+{
+  "name": "Datto VDP",
+  "url": "https://www.datto.com/legal/vulnerability-disclosure-program",
+  "bounty": true,
+  "swag": true,
+  "domains": [
+    "autotask.net",
+    "backupify.com",
+    "bitdam.com",
+    "centrastage.net",
+    "cloudtrax.com",
+    "datto.com",
+    "dattobackup.com",
+    "gluh.co",
+    "openmesh.com",
+    "infocyte.com",
+    "soonr.com"
+  ]
+}

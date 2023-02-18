@@ -1,0 +1,8 @@
+{
+  "name": "Upstox",
+  "url": "https://upstox.com/bug-bounty/",
+  "bounty": true,
+  "domains": [
+    "upstox.com"
+  ]
+}

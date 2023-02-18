@@ -1,0 +1,8 @@
+{
+  "name": "Empuls",
+  "url": "https://www.empuls.io/bug-bounty",
+  "bounty": true,
+  "domains": [
+    "empuls.io"
+  ]
+}

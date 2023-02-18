@@ -1,0 +1,10 @@
+{
+  "name": "Cloudflare",
+  "url": "https://hackerone.com/cloudflare",
+  "bounty": true,
+  "domains": [
+    "cloudflare.com",
+    "cloudflareworkers.com",
+    "cloudflareaccess.com"
+  ]
+}

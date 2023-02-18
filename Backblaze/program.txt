@@ -1,0 +1,9 @@
+{
+  "name": "Backblaze",
+  "url": "https://hackerone.com/backblaze",
+  "bounty": true,
+  "domains": [
+    "backblazeb2.com",
+    "backblaze.com"
+  ]
+}

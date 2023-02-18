@@ -1,0 +1,11 @@
+{
+  "name": "DropBox",
+  "url": "https://hackerone.com/dropbox",
+  "bounty": true,
+  "domains": [
+    "dropbox.com",
+    "hellosign.com",
+    "helloworks.com",
+    "dropboxforum.com"
+  ]
+}

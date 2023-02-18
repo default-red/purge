@@ -1,0 +1,8 @@
+{
+  "name": "Net+",
+  "url": "https://gobugfree.com/programs/netplus",
+  "bounty": true,
+  "domains": [
+    "netplus.ch"
+  ]
+}

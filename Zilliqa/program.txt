@@ -1,0 +1,9 @@
+{
+  "name": "Zilliqa",
+  "url": "https://hackerone.com/zilliqa",
+  "bounty": true,
+  "domains": [
+    "zilliqa.com",
+    "learnscilla.com"
+  ]
+}

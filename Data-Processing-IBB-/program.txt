@@ -1,0 +1,10 @@
+{
+  "name": "Data Processing (IBB)",
+  "url": "https://hackerone.com/ibb-data",
+  "bounty": true,
+  "domains": [
+    "sf.net",
+    "libav.org",
+    "videolan.org"
+  ]
+}

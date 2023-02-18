@@ -1,0 +1,8 @@
+{
+  "name": "Crowdin",
+  "url": "https://support.crowdin.com/vulnerability-policy/",
+  "bounty": false,
+  "domains": [
+    "crowdin.com"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "D66",
+  "url": "https://d66.nl/responsible-disclosure/",
+  "bounty": true,
+  "domains": [
+    "d66.nl"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "HubSpot",
+  "url": "https://bugcrowd.com/hubspot",
+  "bounty": false,
+  "domains": [
+    "hs-sites.com",
+    "hubapi.com",
+    "hubspot.com",
+    "hubspot.net",
+    "growth.org"
+  ]
+}

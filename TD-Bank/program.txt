@@ -1,0 +1,8 @@
+{
+  "name": "TD Bank",
+  "url": "https://www.td.com/privacy-and-security/privacy-and-security/report-vulnerability/reportvulnerability.jsp",
+  "bounty": true,
+  "domains": [
+    "td.com"
+  ]
+}

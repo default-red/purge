@@ -1,0 +1,9 @@
+{
+  "name": "Airtable",
+  "url": "https://hackerone.com/airtable",
+  "bounty": true,
+  "domains": [
+    "airtable.com",
+    "staging-airtableblocks.com"
+  ]
+}

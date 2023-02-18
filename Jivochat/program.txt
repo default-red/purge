@@ -1,0 +1,8 @@
+{
+  "name": "Jivochat",
+  "url": "https://jivochat.com/bugbounty/",
+  "bounty": true,
+  "domains": [
+    "jivosite.com"
+  ]
+}

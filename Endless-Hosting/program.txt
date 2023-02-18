@@ -1,0 +1,10 @@
+{
+  "name": "Endless Hosting",
+  "url": "https://hackerone.com/endless_hosting",
+  "bounty": false,
+  "domains": [
+    "endlcdn.site",
+    "theendlessweb.com",
+    "djelectro.me"
+  ]
+}

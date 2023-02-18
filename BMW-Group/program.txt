@@ -1,0 +1,10 @@
+{
+  "name": "BMW Group",
+  "url": "https://hackerone.com/bmwgroup",
+  "bounty": true,
+  "domains": [
+    "bmw.de",
+    "mini.de",
+    "bmw-motorrad.de"
+  ]
+}

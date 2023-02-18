@@ -1,0 +1,10 @@
+{
+  "name": "Scholar Fund",
+  "url": "https://www.scholarfundwa.org/bug-bounty",
+  "bounty": true,
+  "swag": false,
+  "domains": [
+    "scholarfundwa.org",
+    "scholarfund.io"
+  ]
+}

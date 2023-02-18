@@ -1,0 +1,23 @@
+{
+  "name": "Starbucks",
+  "url": "https://hackerone.com/starbucks",
+  "bounty": true,
+  "domains": [
+    "starbucks.com.cn",
+    "starbucks.com.sg",
+    "starbucksreserve.com",
+    "starbucks.br",
+    "starbucks.fr",
+    "istarbucks.co.kr",
+    "starbucks.de",
+    "mystarbucks.kr",
+    "starbucks.ca",
+    "teavana.com",
+    "starbucks.com",
+    "starbucks.jp",
+    "starbucks.co.jp",
+    "starbucks.co.uk",
+    "starbucks.cn",
+    "starbucks.com.br"
+  ]
+}

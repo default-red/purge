@@ -1,0 +1,8 @@
+{
+  "name": "Range",
+  "url": "https://www.range.co/security/bounty",
+  "bounty": true,
+  "domains": [
+    "range.co"
+  ]
+}

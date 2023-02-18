@@ -1,0 +1,15 @@
+{
+  "name": "Elastic",
+  "url": "https://hackerone.com/elastic",
+  "bounty": true,
+  "swag": false,
+  "domains": [
+    "elastic.co",
+    "found.io",
+    "swiftype.com",
+    "elstc.co",
+    "elasticnet.co",
+    "eops.nl",
+    "elastic-cloud.com"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Narkasa",
+  "url": "https://support.narkasa.com/hc/en-us/articles/360011019458-Bug-Bounty",
+  "bounty": true,
+  "swag": false,
+  "domains": [
+    "narkasa.com"
+  ]
+}

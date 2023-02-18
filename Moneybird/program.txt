@@ -1,0 +1,9 @@
+{
+  "name": "Moneybird",
+  "url": "https://hackerone.com/moneybird",
+  "bounty": false,
+  "domains": [
+    "moneybird.com",
+    "moneybirdstorage.com"
+  ]
+}

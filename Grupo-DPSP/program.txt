@@ -1,0 +1,11 @@
+{
+  "name": "Grupo DPSP",
+  "url": "https://bugbounty.hackaflag.com.br/hempresa.php?id=6",
+  "bounty": true,
+  "swag": false,
+  "domains": [
+    "dpsp.io",
+    "drogariaspacheco.com.br",
+    "drogariasaopaulo.com.br"
+  ]
+}

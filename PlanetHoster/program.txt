@@ -1,0 +1,10 @@
+{
+  "name": "PlanetHoster",
+  "url": "https://bugcrowd.com/planethosterinc",
+  "bounty": true,
+  "domains": [
+    "planethoster.net",
+    "n0c.com",
+    "planethoster.com"
+  ]
+}

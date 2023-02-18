@@ -1,0 +1,8 @@
+{
+  "name": "OLX Brasil",
+  "url": "https://admin.bughunt.com.br/program/detail?60ca003869707962894a5b33",
+  "bounty": true,
+  "domains": [
+    "olx.com.br"
+  ]
+}

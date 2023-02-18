@@ -1,0 +1,8 @@
+{
+  "name": "OVH",
+  "url": "https://yeswehack.com/programs/ovh",
+  "bounty": true,
+  "domains": [
+    "ovh.com"
+  ]
+}

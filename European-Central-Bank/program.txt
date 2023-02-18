@@ -1,0 +1,8 @@
+{
+  "name": "European Central Bank",
+  "url": "https://www.ecb.europa.eu/services/responsible-disclosure/html/index.nl.html",
+  "bounty": false,
+  "domains": [
+    "europa.eu"
+  ]
+}

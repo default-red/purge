@@ -1,0 +1,8 @@
+{
+  "name": "Redtube",
+  "url": "https://hackerone.com/redtube",
+  "bounty": true,
+  "domains": [
+    "redtube.com"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Threema",
+  "url": "https://gobugfree.com/programs/threema",
+  "bounty": true,
+  "domains": [
+    "threema.ch"
+  ]
+}

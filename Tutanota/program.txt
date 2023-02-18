@@ -1,0 +1,13 @@
+{
+  "name": "Tutanota",
+  "url": "https://tutanota.com/faq/#report-vulnerability",
+  "bounty": false,
+  "swag": false,
+  "domains": [
+    "tutanota.com",
+    "tutanota.de",
+    "tutamail.com",
+    "tuta.io",
+    "keemail.me"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Brave Software",
+  "url": "https://hackerone.com/brave",
+  "bounty": true,
+  "domains": [
+    "basicattentiontoken.org",
+    "brave.com"
+  ]
+}

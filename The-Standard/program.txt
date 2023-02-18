@@ -1,0 +1,8 @@
+{
+  "name": "The Standard",
+  "url": "https://www.standard.com/about-standard/responsible-disclosure-program",
+  "bounty": false,
+  "domains": [
+    "standard.com"
+  ]
+}

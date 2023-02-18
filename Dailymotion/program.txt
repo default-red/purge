@@ -1,0 +1,12 @@
+{
+  "name": "Dailymotion",
+  "url": "https://yeswehack.com/programs/dailymotion-public-bug-bounty",
+  "bounty": true,
+  "domains": [
+    "dailymotion.com",
+    "dmcdn.net",
+    "dailymotionadvertising.com",
+    "dm.gg",
+    "dmxleo.com"
+  ]
+}

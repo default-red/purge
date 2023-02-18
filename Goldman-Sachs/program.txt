@@ -1,0 +1,26 @@
+{
+  "name": "Goldman Sachs",
+  "url": "https://hackerone.com/goldmansachs",
+  "bounty": true,
+  "domains": [
+    "ayco.com",
+    "claritymoney.com",
+    "finlife.com",
+    "finlifepartners.com",
+    "genesiscapital.com",
+    "goldman.com",
+    "goldmanpfm.com",
+    "goldmansachs.com",
+    "gs.com",
+    "gs.de",
+    "gsam.com",
+    "gspublishing.com",
+    "gsselect.com",
+    "honestdollar.com",
+    "marcus.co.uk",
+    "marcus.com",
+    "rocaton.com",
+    "unitedcp.com",
+    "goldmansachsindices.com"
+  ]
+}

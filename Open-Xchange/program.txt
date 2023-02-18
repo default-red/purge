@@ -1,0 +1,10 @@
+{
+  "name": "Open-Xchange",
+  "url": "https://hackerone.com/open-xchange",
+  "bounty": true,
+  "domains": [
+    "dovecot.org",
+    "powerdns.com",
+    "open-xchange.com"
+  ]
+}

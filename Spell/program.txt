@@ -1,0 +1,8 @@
+{
+  "name": "Spell",
+  "url": "https://hackerone.com/spell",
+  "bounty": false,
+  "domains": [
+    "spell.run"
+  ]
+}

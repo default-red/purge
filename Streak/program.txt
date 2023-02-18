@@ -1,0 +1,9 @@
+{
+  "name": "Streak",
+  "url": "https://hackerone.com/streak_com",
+  "bounty": false,
+  "domains": [
+    "streak.com",
+    "mailfoogae.appspot.com"
+  ]
+}

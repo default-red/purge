@@ -1,0 +1,8 @@
+{
+  "name": "Consumer Financial",
+  "url": "https://www.consumerfinance.gov/vulnerability-disclosure-policy/",
+  "bounty": false,
+  "domains": [
+    "consumerfinance.gov"
+  ]
+}

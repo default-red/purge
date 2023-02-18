@@ -1,0 +1,8 @@
+{
+  "name": "LCX",
+  "url": "https://hackenproof.com/lcx/lcx",
+  "bounty": true,
+  "domains": [
+    "lcx.com"
+  ]
+}

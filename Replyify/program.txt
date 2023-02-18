@@ -1,0 +1,8 @@
+{
+  "name": "Replyify",
+  "url": "https://hackerone.com/replyify",
+  "bounty": false,
+  "domains": [
+    "replyify.com"
+  ]
+}

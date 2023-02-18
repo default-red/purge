@@ -1,0 +1,8 @@
+{
+  "name": "KIWI.KI GmbH",
+  "url": "https://hackerone.com/kiwi-ki",
+  "bounty": false,
+  "domains": [
+    "kiwi.ki"
+  ]
+}

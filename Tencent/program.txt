@@ -1,0 +1,12 @@
+{
+  "name": "Tencent",
+  "url": "https://en.security.tencent.com",
+  "bounty": true,
+  "domains": [
+    "qq.com",
+    "tencent.com",
+    "tenpay.com",
+    "dnspod.cn",
+    "weiyun.com"
+  ]
+}

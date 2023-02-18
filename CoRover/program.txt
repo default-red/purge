@@ -1,0 +1,8 @@
+{
+  "name": "CoRover",
+  "url": "https://corover.ai/bug-bounty-program/",
+  "bounty": true,
+  "domains": [
+    "corover.ai"
+  ]
+}

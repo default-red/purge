@@ -1,0 +1,8 @@
+{
+  "name": "EPAM",
+  "url": "https://hackerone.com/epam-bbp",
+  "bounty": true,
+  "domains": [
+    "epam.com"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "RecargaPay",
+  "url": "https://hackerone.com/recargapay",
+  "bounty": true,
+  "domains": [
+    "recarga.com",
+    "recargapay.com.br"
+  ]
+}

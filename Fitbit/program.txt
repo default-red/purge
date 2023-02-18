@@ -1,0 +1,9 @@
+{
+  "name": "Fitbit",
+  "url": "https://hackerone.com/fitbit",
+  "bounty": true,
+  "domains": [
+    "fitbit.com",
+    "fitstar.com"
+  ]
+}

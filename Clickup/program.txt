@@ -1,0 +1,8 @@
+{
+  "name": "Clickup",
+  "url": "https://clickup.com/bug-bounty",
+  "bounty": true,
+  "domains": [
+    "clickup.com"
+  ]
+}

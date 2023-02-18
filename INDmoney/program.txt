@@ -1,0 +1,10 @@
+{
+  "name": "INDmoney",
+  "url": "https://www.indmoney.com/page/bug-bounty",
+  "bounty": true,
+  "swag": false,
+  "domains": [
+    "indmoney.com",
+    "indiawealth.in"
+  ]
+}

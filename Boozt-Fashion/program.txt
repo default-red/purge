@@ -1,0 +1,9 @@
+{
+  "name": "Boozt Fashion",
+  "url": "https://hackerone.com/boozt",
+  "bounty": true,
+  "domains": [
+    "boozt.com",
+    "booztlet.com"
+  ]
+}

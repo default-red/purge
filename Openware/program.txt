@@ -1,0 +1,8 @@
+{
+  "name": "Openware",
+  "url": "https://hackenproof.com/openware/openware",
+  "bounty": true,
+  "domains": [
+    "yellow.org"
+  ]
+}

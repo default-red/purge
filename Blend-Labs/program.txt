@@ -1,0 +1,9 @@
+{
+  "name": "Blend Labs",
+  "url": "https://hackerone.com/blend-labs",
+  "bounty": true,
+  "domains": [
+    "blendlabs.com",
+    "blend.com"
+  ]
+}

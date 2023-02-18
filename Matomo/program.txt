@@ -1,0 +1,9 @@
+{
+  "name": "Matomo",
+  "url": "https://hackerone.com/matomo",
+  "bounty": true,
+  "domains": [
+    "matomo.org",
+    "innocraft.cloud"
+  ]
+}

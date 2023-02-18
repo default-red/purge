@@ -1,0 +1,9 @@
+{
+  "name": "Pasls Store",
+  "url": "https://app.bugv.io/researcher/program/0000008/detail",
+  "bounty": true,
+  "domains": [
+    "zimisa.com",
+    "pasls.com"
+  ]
+}

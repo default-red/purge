@@ -1,0 +1,12 @@
+{
+  "name": "REM-B Hydraulics",
+  "url": "https://hackerone.com/remb_hydraulics",
+  "bounty": false,
+  "domains": [
+    "hydass.be",
+    "hydraulics-group.com",
+    "rem-b.com",
+    "remb.be",
+    "rembconnect.be"
+  ]
+}

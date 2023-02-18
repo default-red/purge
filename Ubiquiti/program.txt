@@ -1,0 +1,9 @@
+{
+  "name": "Ubiquiti",
+  "url": "https://hackerone.com/ui",
+  "bounty": true,
+  "domains": [
+    "ubnt.com",
+    "ui.com"
+  ]
+}

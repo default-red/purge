@@ -1,0 +1,8 @@
+{
+  "name": "Sweatco Ltd",
+  "url": "https://hackerone.com/sweatco_ltd",
+  "bounty": false,
+  "domains": [
+    "sweatco.app"
+  ]
+}

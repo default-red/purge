@@ -1,0 +1,10 @@
+{
+  "name": "PostNL",
+  "url": "https://www.postnl.nl/en/responsible-disclosure/",
+  "bounty": false,
+  "domains": [
+    "postnl.nl",
+    "postnl.com",
+    "postnl.post"
+  ]
+}

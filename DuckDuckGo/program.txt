@@ -1,0 +1,8 @@
+{
+  "name": "DuckDuckGo",
+  "url": "https://hackerone.com/duckduckgo",
+  "bounty": false,
+  "domains": [
+    "duckduckgo.com"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "BKEX",
+  "url": "https://hackenproof.com/bkex/bkex",
+  "bounty": true,
+  "domains": [
+    "bkk.fun",
+    "bkex.com"
+  ]
+}

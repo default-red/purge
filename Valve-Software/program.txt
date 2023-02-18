@@ -1,0 +1,15 @@
+{
+  "name": "Valve Software",
+  "url": "https://hackerone.com/valve",
+  "bounty": true,
+  "domains": [
+    "teamfortress.com",
+    "playartifact.com",
+    "counter-strike.net",
+    "dota2.com",
+    "steamcommunity.com",
+    "valvesoftware.com",
+    "steamgames.com",
+    "steampowered.com"
+  ]
+}

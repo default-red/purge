@@ -1,0 +1,8 @@
+{
+  "name": "CompanyHub",
+  "url": "https://hackerone.com/companyhub",
+  "bounty": false,
+  "domains": [
+    "companyhub.com"
+  ]
+}

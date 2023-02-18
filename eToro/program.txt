@@ -1,0 +1,10 @@
+{
+  "name": "eToro",
+  "url": "https://hackerone.com/etoro_bbp",
+  "bounty": true,
+  "domains": [
+    "etoro.com",
+    "etoropartners.com",
+    "delta.app"
+  ]
+}

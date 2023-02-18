@@ -1,0 +1,11 @@
+{
+  "name": "Kraken",
+  "url": "https://www.kraken.com/en-us/features/security/bug-bounty",
+  "bounty": true,
+  "domains": [
+    "kraken.com",
+    "cryptowat.ch",
+    "cryptofacilities.com",
+    "cfbenchmarks.com"
+  ]
+}

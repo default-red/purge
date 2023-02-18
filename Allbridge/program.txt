@@ -1,0 +1,8 @@
+{
+  "name": "Allbridge",
+  "url": "https://hackenproof.com/allbridge/allbridge",
+  "bounty": true,
+  "domains": [
+    "allbridge.io"
+  ]
+}

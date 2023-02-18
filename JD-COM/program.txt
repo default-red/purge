@@ -1,0 +1,9 @@
+{
+  "name": "JD.COM",
+  "url": "https://hackerone.com/jd_com",
+  "bounty": true,
+  "domains": [
+    "jd.com",
+    "360buy.com"
+  ]
+}

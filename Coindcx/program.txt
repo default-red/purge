@@ -1,0 +1,10 @@
+{
+  "name": "Coindcx",
+  "url": "https://bugcrowd.com/coindcx-og",
+  "bounty": true,
+  "domains": [
+    "coindcx.com",
+    "dcxstage.com",
+    "dcxlearn.com"
+  ]
+}

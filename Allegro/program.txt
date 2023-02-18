@@ -1,0 +1,8 @@
+{
+  "name": "Allegro",
+  "url": "https://hackerone.com/allegro",
+  "bounty": true,
+  "domains": [
+    "allegrosandbox.pl"
+  ]
+}

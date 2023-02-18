@@ -1,0 +1,8 @@
+{
+  "name": "NCSC UK",
+  "url": "https://hackerone.com/ncsc_uk",
+  "bounty": false,
+  "domains": [
+    "ncsc.gov.uk"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Teleport",
+  "url": "https://hackerone.com/teleport",
+  "bounty": true,
+  "domains": [
+    "goteleport.com",
+    "gravitational.com",
+    "teleport.dev",
+    "teleportinfra.sh",
+    "gravitational.co",
+    "gravitational.io"
+  ]
+}

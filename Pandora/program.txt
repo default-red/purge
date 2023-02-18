@@ -1,0 +1,8 @@
+{
+  "name": "Pandora",
+  "url": "https://hackenproof.com/pandora/pandora-web",
+  "bounty": true,
+  "domains": [
+    "pandora.digital"
+  ]
+}

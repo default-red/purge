@@ -1,0 +1,9 @@
+{
+  "name": "Jooki",
+  "url": "https://app.intigriti.com/programs/muuselabs/jooki/detail",
+  "bounty": false,
+  "domains": [
+    "jooki.rocks",
+    "muuselabs.com"
+  ]
+}

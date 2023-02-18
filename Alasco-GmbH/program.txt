@@ -1,0 +1,10 @@
+{
+  "name": "Alasco GmbH",
+  "url": "https://www.alasco.de/security/bug-bounty/",
+  "bounty": true,
+  "swag": false,
+  "domains": [
+    "alasco.de",
+    "alasco.rocks"
+  ]
+}

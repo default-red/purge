@@ -1,0 +1,8 @@
+{
+  "name": "Razer",
+  "url": "https://www.razer.com/security/bug-bounty-program",
+  "bounty": true,
+  "domains": [
+    "razer.com"
+  ]
+}

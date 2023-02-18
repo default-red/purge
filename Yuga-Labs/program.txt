@@ -1,0 +1,14 @@
+{
+  "name": "Yuga Labs",
+  "url": "https://hackerone.com/yuga_labs",
+  "bounty": true,
+  "domains": [
+    "boredapeyachtclub.com",
+    "yuga.com",
+    "yugalabs.io",
+    "otherside.xyz",
+    "meebits.app",
+    "cryptopunks.app",
+    "mdvmm.xyz"
+  ]
+}

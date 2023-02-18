@@ -1,0 +1,8 @@
+{
+  "name": "USAA",
+  "url": "https://bugcrowd.com/usaa",
+  "bounty": true,
+  "domains": [
+    "usaa.com"
+  ]
+}

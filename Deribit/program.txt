@@ -1,0 +1,8 @@
+{
+  "name": "Deribit",
+  "url": "https://hackerone.com/deribit",
+  "bounty": true,
+  "domains": [
+    "deribit.com"
+  ]
+}

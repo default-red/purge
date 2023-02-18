@@ -1,0 +1,8 @@
+{
+  "name": "Salesforce",
+  "url": "https://www.salesforce.com/company/disclosure/",
+  "bounty": false,
+  "domains": [
+    "salesforce.com"
+  ]
+}

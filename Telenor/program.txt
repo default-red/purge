@@ -1,0 +1,12 @@
+{
+  "name": "Telenor",
+  "url": "https://yeswehack.com/programs/telenor-sweden-public-bug-bounty-program",
+  "bounty": true,
+  "swag": false,
+  "domains": [
+    "telenor.se",
+    "bredbandsbolaget.se",
+    "europolitan.se",
+    "ownit.se"
+  ]
+}

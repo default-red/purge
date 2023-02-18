@@ -1,0 +1,9 @@
+{
+  "name": "Casper",
+  "url": "https://hackerone.com/casper",
+  "bounty": true,
+  "domains": [
+    "casper.com",
+    "casper.tools"
+  ]
+}

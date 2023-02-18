@@ -1,0 +1,9 @@
+{
+  "name": "Deezer",
+  "url": "https://yeswehack.com/programs/deezer-bug-bounty-program-2019",
+  "bounty": true,
+  "swag": false,
+  "domains": [
+    "deezer.com"
+  ]
+}

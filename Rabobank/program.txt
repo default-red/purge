@@ -1,0 +1,9 @@
+{
+  "name": "Rabobank",
+  "url": "https://hackerone.com/rabobank",
+  "bounty": true,
+  "domains": [
+    "rabobank.nl",
+    "rabobank.com"
+  ]
+}

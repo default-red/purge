@@ -1,0 +1,8 @@
+{
+  "name": "Gmelius",
+  "url": "https://hackerone.com/gmelius",
+  "bounty": false,
+  "domains": [
+    "gmelius.com"
+  ]
+}

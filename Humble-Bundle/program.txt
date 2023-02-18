@@ -1,0 +1,8 @@
+{
+  "name": "Humble Bundle",
+  "url": "https://bugcrowd.com/humblebundle",
+  "bounty": false,
+  "domains": [
+    "humblebundle.com"
+  ]
+}

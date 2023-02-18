@@ -1,0 +1,9 @@
+{
+  "name": "Greenhouse.io",
+  "url": "https://hackerone.com/greenhouse",
+  "bounty": true,
+  "domains": [
+    "greenhouse.events",
+    "greenhouse.io"
+  ]
+}

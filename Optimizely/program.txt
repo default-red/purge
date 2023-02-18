@@ -1,0 +1,8 @@
+{
+  "name": "Optimizely",
+  "url": "https://bugcrowd.com/optimizely",
+  "bounty": true,
+  "domains": [
+    "optimizely.com"
+  ]
+}

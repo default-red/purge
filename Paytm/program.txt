@@ -1,0 +1,17 @@
+{
+  "name": "Paytm",
+  "url": "https://bugbounty.paytm.com",
+  "bounty": true,
+  "domains": [
+    "paytm.com",
+    "paytm.in",
+    "paytmmall.com",
+    "paytmbank.com",
+    "paytmfirstgames.com",
+    "gamepind.com",
+    "paytmmoney.com",
+    "paytm.ca",
+    "paytmlabs.com",
+    "mypaytm.com"
+  ]
+}

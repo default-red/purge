@@ -1,0 +1,9 @@
+{
+  "name": "VOLKIS",
+  "url": "https://www.volkis.com.au/vulnerability-disclosure/",
+  "bounty": true,
+  "domains": [
+    "volkis.com.au",
+    "volk.is"
+  ]
+}

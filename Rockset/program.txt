@@ -1,0 +1,8 @@
+{
+  "name": "Rockset",
+  "url": "https://hackerone.com/rockset",
+  "bounty": false,
+  "domains": [
+    "rockset.com"
+  ]
+}

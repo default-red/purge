@@ -1,0 +1,10 @@
+{
+  "name": "Tube8",
+  "url": "https://hackerone.com/tube8",
+  "bounty": true,
+  "domains": [
+    "tube8.com",
+    "tube8.es",
+    "tube8.fr"
+  ]
+}

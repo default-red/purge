@@ -1,0 +1,8 @@
+{
+  "name": "Unilever",
+  "url": "https://bugcrowd.com/unilever-vdp",
+  "bounty": false,
+  "domains": [
+    "unilever.com"
+  ]
+}

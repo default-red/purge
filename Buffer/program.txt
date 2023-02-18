@@ -1,0 +1,8 @@
+{
+  "name": "Buffer",
+  "url": "https://buffer.com/legal#security",
+  "bounty": true,
+  "domains": [
+    "buffer.com"
+  ]
+}

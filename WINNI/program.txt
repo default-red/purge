@@ -1,0 +1,8 @@
+{
+  "name": "WINNI",
+  "url": "https://www.winni.in/bug-bounty",
+  "bounty": true,
+  "domains": [
+    "winni.in"
+  ]
+}

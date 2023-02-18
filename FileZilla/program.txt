@@ -1,0 +1,8 @@
+{
+  "name": "FileZilla",
+  "url": "https://hackerone.com/filezilla",
+  "bounty": true,
+  "domains": [
+    "filezilla-project.org"
+  ]
+}

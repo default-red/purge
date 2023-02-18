@@ -1,0 +1,8 @@
+{
+  "name": "NOS",
+  "url": "https://over.nos.nl/organisatie/regelgeving/",
+  "bounty": true,
+  "domains": [
+    "nos.nl"
+  ]
+}

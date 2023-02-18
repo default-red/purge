@@ -1,0 +1,9 @@
+{
+  "name": "PortSwigger Web Security",
+  "url": "https://hackerone.com/portswigger",
+  "bounty": true,
+  "domains": [
+    "portswigger.net",
+    "web-security-academy.net"
+  ]
+}

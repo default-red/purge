@@ -1,0 +1,8 @@
+{
+  "name": "MakeMyTrip",
+  "url": "https://www.makemytrip.com/pwa-hlp/mmtbb/report",
+  "bounty": true,
+  "domains": [
+    "makemytrip.com"
+  ]
+}

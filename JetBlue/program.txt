@@ -1,0 +1,8 @@
+{
+  "name": "JetBlue",
+  "url": "https://hackerone.com/jetblue",
+  "bounty": false,
+  "domains": [
+    "jetblue.com"
+  ]
+}

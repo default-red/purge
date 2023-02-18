@@ -1,0 +1,8 @@
+{
+  "name": "RubyGems",
+  "url": "https://hackerone.com/rubygems",
+  "bounty": true,
+  "domains": [
+    "rubygems.org"
+  ]
+}

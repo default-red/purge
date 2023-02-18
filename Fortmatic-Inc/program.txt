@@ -1,0 +1,9 @@
+{
+  "name": "Fortmatic Inc",
+  "url": "https://hackerone.com/fortmatic_inc",
+  "bounty": true,
+  "domains": [
+    "fortmatic.com",
+    "magic.link"
+  ]
+}

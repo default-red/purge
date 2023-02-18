@@ -1,0 +1,8 @@
+{
+  "name": "Touch Incentive Marketing",
+  "url": "https://www.touchincentive.com/responsible-disclosure/",
+  "bounty": true,
+  "domains": [
+    "touchincentive.com"
+  ]
+}

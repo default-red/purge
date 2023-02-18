@@ -1,0 +1,13 @@
+{
+  "name": "Intuit",
+  "url": "https://hackerone.com/intuitinc",
+  "bounty": false,
+  "swag": false,
+  "domains": [
+    "intuit.com",
+    "turbotax.com",
+    "mint.com",
+    "quickbooks.com",
+    "mailchimp.com"
+  ]
+}

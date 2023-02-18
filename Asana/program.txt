@@ -1,0 +1,10 @@
+{
+  "name": "Asana",
+  "url": "https://bugcrowd.com/asana",
+  "bounty": true,
+  "domains": [
+    "asana.com",
+    "asana.plus",
+    "asana.biz"
+  ]
+}

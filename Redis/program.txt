@@ -1,0 +1,9 @@
+{
+  "name": "Redis",
+  "url": "https://hackerone.com/redis-vdp",
+  "bounty": false,
+  "domains": [
+    "redislabs.com",
+    "redis.com"
+  ]
+}

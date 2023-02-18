@@ -1,0 +1,9 @@
+{
+  "name": "Showmax",
+  "url": "https://hackerone.com/showmax",
+  "bounty": true,
+  "domains": [
+    "showmax.com",
+    "showmax.app"
+  ]
+}

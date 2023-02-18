@@ -1,0 +1,10 @@
+{
+  "name": "WEB.DE",
+  "url": "https://bugbounty.web.de/english.html",
+  "bounty": true,
+  "domains": [
+    "web.de",
+    "gmx.de",
+    "mail.com"
+  ]
+}

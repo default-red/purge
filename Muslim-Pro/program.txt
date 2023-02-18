@@ -1,0 +1,8 @@
+{
+  "name": "Muslim Pro",
+  "url": "https://yeswehack.com/programs/muslim-pro",
+  "bounty": true,
+  "domains": [
+    "muslimpro.com"
+  ]
+}

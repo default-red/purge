@@ -1,0 +1,8 @@
+{
+  "name": "OWASP ZAP",
+  "url": "https://bugcrowd.com/owaspzap",
+  "bounty": true,
+  "domains": [
+    "zaproxy.org"
+  ]
+}

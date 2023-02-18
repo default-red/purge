@@ -1,0 +1,8 @@
+{
+  "name": "Pinterest",
+  "url": "https://bugcrowd.com/pinterest",
+  "bounty": true,
+  "domains": [
+    "pinterest.com"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Courier",
+  "url": "https://hackerone.com/trycourier",
+  "bounty": false,
+  "domains": [
+    "trycourier.app",
+    "trycourier.com",
+    "ct0.app"
+  ]
+}

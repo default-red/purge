@@ -1,0 +1,9 @@
+{
+  "name": "Clario",
+  "url": "https://hackerone.com/clario",
+  "bounty": true,
+  "domains": [
+    "clario.co",
+    "mackeeper.com"
+  ]
+}

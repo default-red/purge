@@ -1,0 +1,9 @@
+{
+  "name": "Python Cryptographic",
+  "url": "https://hackerone.com/pyca",
+  "bounty": false,
+  "domains": [
+    "cryptography.io",
+    "pyopenssl.org"
+  ]
+}

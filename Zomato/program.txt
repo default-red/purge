@@ -1,0 +1,10 @@
+{
+  "name": "Zomato",
+  "url": "https://hackerone.com/zomato",
+  "bounty": true,
+  "domains": [
+    "zomato.com",
+    "zdev.net",
+    "zomatobook.com"
+  ]
+}

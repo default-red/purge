@@ -1,0 +1,12 @@
+{
+  "name": "Danskebank",
+  "url": "https://danskebank.com/responsible-disclosure",
+  "bounty": true,
+  "swag": false,
+  "domains": [
+    "danskebank.com",
+    "danskebank.dk",
+    "june.dk",
+    "sunday.dk"
+  ]
+}

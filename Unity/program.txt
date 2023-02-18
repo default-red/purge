@@ -1,0 +1,9 @@
+{
+  "name": "Unity",
+  "url": "https://bugcrowd.com/unity",
+  "bounty": true,
+  "domains": [
+    "unity3d.com",
+    "unity.com"
+  ]
+}

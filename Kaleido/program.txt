@@ -1,0 +1,11 @@
+{
+  "name": "Kaleido",
+  "url": "https://bugcrowd.com/kaleido",
+  "bounty": true,
+  "domains": [
+    "remove.bg",
+    "designify.com",
+    "kaleido.ai",
+    "unscreen.com"
+  ]
+}

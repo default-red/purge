@@ -1,0 +1,10 @@
+{
+  "name": "LifeOmic",
+  "url": "https://hackerone.com/lifeomic",
+  "bounty": true,
+  "domains": [
+    "lifeomic.life",
+    "lifeomic.com",
+    "jupiterone.io"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Weblate",
+  "url": "https://hackerone.com/weblate",
+  "bounty": false,
+  "domains": [
+    "weblate.org"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Qwant",
+  "url": "https://yeswehack.com/programs/qwant",
+  "bounty": true,
+  "domains": [
+    "qwant.com"
+  ]
+}

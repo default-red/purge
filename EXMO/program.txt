@@ -1,0 +1,9 @@
+{
+  "name": "EXMO",
+  "url": "https://hackenproof.com/exmo/exmo",
+  "bounty": true,
+  "domains": [
+    "exmo.com",
+    "exmo.me"
+  ]
+}

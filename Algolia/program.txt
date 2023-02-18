@@ -1,0 +1,10 @@
+{
+  "name": "Algolia",
+  "url": "https://hackerone.com/algolia",
+  "bounty": true,
+  "domains": [
+    "algolianet.com",
+    "algolia.com",
+    "algolia.net"
+  ]
+}

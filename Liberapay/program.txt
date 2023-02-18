@@ -1,0 +1,9 @@
+{
+  "name": "Liberapay",
+  "url": "https://hackerone.com/liberapay",
+  "bounty": true,
+  "domains": [
+    "liberapay.com",
+    "liberapay.org"
+  ]
+}

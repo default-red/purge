@@ -1,0 +1,12 @@
+{
+  "name": "IoTeX",
+  "url": "https://hackenproof.com/iotex/iotex",
+  "bounty": true,
+  "domains": [
+    "iotex.io",
+    "iotexscan.io",
+    "iotexscout.io",
+    "machinefi.com",
+    "iopay.me"
+  ]
+}

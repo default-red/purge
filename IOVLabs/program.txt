@@ -1,0 +1,8 @@
+{
+  "name": "IOVLabs",
+  "url": "https://hackerone.com/iovlabs",
+  "bounty": true,
+  "domains": [
+    "rsk.co"
+  ]
+}

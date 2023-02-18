@@ -1,0 +1,10 @@
+{
+  "name": "Zendesk",
+  "url": "https://hackerone.com/zendesk",
+  "bounty": true,
+  "domains": [
+    "zendesk.com",
+    "smooch.io",
+    "zopim.com"
+  ]
+}

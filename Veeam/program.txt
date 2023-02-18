@@ -1,0 +1,10 @@
+{
+  "name": "Veeam",
+  "url": "https://hackerone.com/veeam",
+  "bounty": false,
+  "domains": [
+    "veeam.com",
+    "kasten.io",
+    "veeamgov.com"
+  ]
+}

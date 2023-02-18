@@ -1,0 +1,10 @@
+{
+  "name": "Flexport VDP",
+  "url": "https://hackerone.com/flexport_vdp",
+  "bounty": false,
+  "swag": false,
+  "domains": [
+    "flexport.com",
+    "transmissionapp.com"
+  ]
+}

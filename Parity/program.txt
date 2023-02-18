@@ -1,0 +1,8 @@
+{
+  "name": "Parity",
+  "url": "https://www.parity.io/bug-bounty/",
+  "bounty": true,
+  "domains": [
+    "parity.io"
+  ]
+}

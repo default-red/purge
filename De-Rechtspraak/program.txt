@@ -1,0 +1,9 @@
+{
+  "name": "De Rechtspraak",
+  "url": "https://www.rechtspraak.nl/English/Contact/Pages/Contact-point-vulnerabilities-responsible-disclosure.aspx",
+  "bounty": false,
+  "swag": true,
+  "domains": [
+    "rechtspraak.nl"
+  ]
+}

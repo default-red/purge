@@ -1,0 +1,9 @@
+{
+  "name": "Wise",
+  "url": "https://bugcrowd.com/wise",
+  "bounty": true,
+  "domains": [
+    "wise.com",
+    "transferwise.com"
+  ]
+}

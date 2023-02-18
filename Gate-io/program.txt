@@ -1,0 +1,8 @@
+{
+  "name": "Gate.io",
+  "url": "https://hackenproof.com/gate-dot-io/gate-dot-io-exchange",
+  "bounty": true,
+  "domains": [
+    "gate.io"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Exodus",
+  "url": "https://hackerone.com/exodus",
+  "bounty": true,
+  "domains": [
+    "exodus.io",
+    "exodus.com"
+  ]
+}

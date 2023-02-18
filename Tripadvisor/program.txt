@@ -1,0 +1,13 @@
+{
+  "name": "Tripadvisor",
+  "url": "https://bugcrowd.com/tripadvisor-vdp",
+  "bounty": true,
+  "domains": [
+    "tripadvisor.com",
+    "tapayments.com",
+    "cruisecritic.com",
+    "bokun.com",
+    "tripadvisorwifi.com",
+    "tripadvisormediamanager.com"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Pixiv",
+  "url": "https://hackerone.com/pixiv",
+  "bounty": true,
+  "domains": [
+    "pixiv.net",
+    "booth.pm",
+    "vroid.com",
+    "pxv.pay"
+  ]
+}

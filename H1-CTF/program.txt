@@ -1,0 +1,8 @@
+{
+  "name": "H1-CTF",
+  "url": "https://hackerone.com/h1-ctf",
+  "bounty": false,
+  "domains": [
+    "h1ctf.com"
+  ]
+}

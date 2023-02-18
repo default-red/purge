@@ -1,0 +1,8 @@
+{
+  "name": "BitMEX",
+  "url": "https://hackerone.com/bitmex",
+  "bounty": true,
+  "domains": [
+    "bitmex.com"
+  ]
+}

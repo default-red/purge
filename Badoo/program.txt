@@ -1,0 +1,10 @@
+{
+  "name": "Badoo",
+  "url": "https://hackerone.com/badoo",
+  "bounty": true,
+  "domains": [
+    "badoo.com",
+    "badoocdn.com",
+    "hotornot.com"
+  ]
+}

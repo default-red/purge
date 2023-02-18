@@ -1,0 +1,8 @@
+{
+  "name": "Amitree Inc",
+  "url": "https://hackerone.com/amitree_inc",
+  "bounty": false,
+  "domains": [
+    "amitree.com"
+  ]
+}

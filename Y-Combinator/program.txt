@@ -1,0 +1,10 @@
+{
+  "name": "Y Combinator",
+  "url": "https://hackerone.com/ycombinator",
+  "bounty": false,
+  "domains": [
+    "startupschool.org",
+    "workatastartup.com",
+    "ycombinator.com"
+  ]
+}

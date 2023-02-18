@@ -1,0 +1,8 @@
+{
+  "name": "Skyscanner",
+  "url": "https://bugcrowd.com/skyscanner",
+  "bounty": true,
+  "domains": [
+    "skyscanner.net"
+  ]
+}

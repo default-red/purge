@@ -1,0 +1,9 @@
+{
+  "name": "Localize",
+  "url": "https://hackerone.com/localizejs",
+  "bounty": true,
+  "domains": [
+    "localizestaging.com",
+    "localize.live"
+  ]
+}

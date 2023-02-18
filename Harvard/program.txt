@@ -1,0 +1,8 @@
+{
+  "name": "Harvard",
+  "url": "https://huit.harvard.edu/responsible-vulnerability-reporting-standards#inscope",
+  "bounty": false,
+  "domains": [
+    "harvard.edu"
+  ]
+}

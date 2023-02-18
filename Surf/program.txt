@@ -1,0 +1,9 @@
+{
+  "name": "Surf",
+  "url": "https://www.surf.nl/en/responsible-disclosure-surf",
+  "bounty": false,
+  "swag": true,
+  "domains": [
+    "surf.nl"
+  ]
+}

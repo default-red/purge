@@ -1,0 +1,9 @@
+{
+  "name": "Contentsquare",
+  "url": "https://yeswehack.com/programs/contentsquare-bug-bounty-program",
+  "bounty": true,
+  "swag": false,
+  "domains": [
+    "contentsquare.com"
+  ]
+}

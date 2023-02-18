@@ -1,0 +1,10 @@
+{
+  "name": "Curve",
+  "url": "https://hackerone.com/curve",
+  "bounty": true,
+  "domains": [
+    "imaginecurve.com",
+    "curve.app",
+    "curve.com"
+  ]
+}

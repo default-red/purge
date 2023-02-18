@@ -1,0 +1,8 @@
+{
+  "name": "UPS VDP",
+  "url": "https://hackerone.com/ups",
+  "bounty": false,
+  "domains": [
+    "ups.com"
+  ]
+}

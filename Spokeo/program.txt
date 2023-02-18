@@ -1,0 +1,10 @@
+{
+  "name": "Spokeo",
+  "url": "https://www.spokeo.com/bug-bounty",
+  "bounty": true,
+  "domains": [
+    "spokeo.com",
+    "freepeopledirectory.com",
+    "spokeoaffiliates.com"
+  ]
+}

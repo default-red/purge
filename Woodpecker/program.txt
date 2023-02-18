@@ -1,0 +1,8 @@
+{
+  "name": "Woodpecker",
+  "url": "https://woodpecker.co/vulnerability-disclosure-program/",
+  "bounty": false,
+  "domains": [
+    "woodpecker.co"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Cornershop",
+  "url": "https://hackerone.com/cornershop",
+  "bounty": true,
+  "swag": false,
+  "domains": [
+    "cornershopapp.com",
+    "superpal.com",
+    "cornershop.io",
+    "superpal.io"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Mujs",
+  "url": "https://mujs.com/security.html",
+  "bounty": true,
+  "domains": [
+    "mujs.com"
+  ]
+}

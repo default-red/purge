@@ -1,0 +1,8 @@
+{
+  "name": "OYO",
+  "url": "https://www.oyorooms.com/responsible-disclosure",
+  "bounty": true,
+  "domains": [
+    "oyorooms.com"
+  ]
+}

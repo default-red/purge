@@ -1,0 +1,9 @@
+{
+  "name": "Chainlink",
+  "url": "https://hackerone.com/chainlink",
+  "bounty": true,
+  "domains": [
+    "chain.link",
+    "smartcontract.com"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Hanno",
+  "url": "https://hackerone.com/hannob",
+  "bounty": false,
+  "domains": [
+    "betterscience.org",
+    "fuzzing-project.org",
+    "hboeck.de"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Indeed",
+  "url": "https://bugcrowd.com/indeed",
+  "bounty": true,
+  "domains": [
+    "indeed.com",
+    "indeed.tech"
+  ]
+}

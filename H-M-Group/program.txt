@@ -1,0 +1,15 @@
+{
+  "name": "H&M Group",
+  "url": "https://www2.hm.com/security.txt",
+  "bounty": true,
+  "swag": false,
+  "domains": [
+    "hm.com",
+    "cos.com",
+    "weekday.com",
+    "monki.com",
+    "arket.com",
+    "afound.com",
+    "stories.com"
+  ]
+}

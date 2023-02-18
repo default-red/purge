@@ -1,0 +1,8 @@
+{
+  "name": "Nozbe",
+  "url": "https://nozbe.com/bug-bounty/",
+  "bounty": true,
+  "domains": [
+    "nozbe.com"
+  ]
+}

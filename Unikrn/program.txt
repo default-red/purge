@@ -1,0 +1,10 @@
+{
+  "name": "Unikrn",
+  "url": "https://hackerone.com/unikrn",
+  "bounty": true,
+  "domains": [
+    "unikrn.com",
+    "pinion.gg",
+    "unikoingold.com"
+  ]
+}

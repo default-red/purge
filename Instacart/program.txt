@@ -1,0 +1,9 @@
+{
+  "name": "Instacart",
+  "url": "https://hackerone.com/instacart",
+  "bounty": true,
+  "domains": [
+    "instacart.com",
+    "instacart.tools"
+  ]
+}

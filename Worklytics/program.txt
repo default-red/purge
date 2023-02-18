@@ -1,0 +1,8 @@
+{
+  "name": "Worklytics",
+  "url": "https://hackerone.com/worklytics",
+  "bounty": false,
+  "domains": [
+    "worklytics.co"
+  ]
+}

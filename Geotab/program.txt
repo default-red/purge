@@ -1,0 +1,9 @@
+{
+  "name": "Geotab",
+  "url": "https://community.geotab.com/s/article/How-to-report-security-vulnerabilities?language=en_US",
+  "bounty": true,
+  "swag": false,
+  "domains": [
+    "geotab.com"
+  ]
+}

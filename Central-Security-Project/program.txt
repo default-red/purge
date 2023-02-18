@@ -1,0 +1,8 @@
+{
+  "name": "Central Security Project",
+  "url": "https://hackerone.com/central-security-project",
+  "bounty": false,
+  "domains": [
+    "maven.org"
+  ]
+}

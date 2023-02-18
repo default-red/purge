@@ -1,0 +1,16 @@
+{
+  "name": "Urban Dictionary",
+  "url": "https://hackerone.com/urbandictionary",
+  "bounty": false,
+  "domains": [
+    "udimg.com",
+    "urbandictionary.com",
+    "urbanup.com",
+    "urbandictionary.net",
+    "urbandictionary.org",
+    "urbandictionary.store",
+    "ud.wtf",
+    "urbandictionary.biz",
+    "urbandictionary.blog"
+  ]
+}

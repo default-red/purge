@@ -1,0 +1,8 @@
+{
+  "name": "Monash MBB",
+  "url": "https://bugcrowd.com/monash-mbb",
+  "bounty": true,
+  "domains": [
+    "monash.edu"
+  ]
+}

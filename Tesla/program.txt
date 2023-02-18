@@ -1,0 +1,13 @@
+{
+  "name": "Tesla",
+  "url": "https://bugcrowd.com/tesla",
+  "bounty": true,
+  "domains": [
+    "tesla.cn",
+    "tesla.com",
+    "tesla.services",
+    "teslamotors.com",
+    "teslainsuranceservices.com",
+    "solarcity.com"
+  ]
+}

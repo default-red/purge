@@ -1,0 +1,8 @@
+{
+  "name": "Hotbit",
+  "url": "https://hackenproof.com/hotbit/hotbit",
+  "bounty": true,
+  "domains": [
+    "hotbit.io"
+  ]
+}

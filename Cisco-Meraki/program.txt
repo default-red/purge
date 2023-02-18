@@ -1,0 +1,11 @@
+{
+  "name": "Cisco Meraki",
+  "url": "https://bugcrowd.com/ciscomeraki",
+  "bounty": true,
+  "domains": [
+    "ikarem.io",
+    "meraki.com",
+    "network-auth.com",
+    "cisco.com"
+  ]
+}

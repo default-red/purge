@@ -1,0 +1,6 @@
+{
+  "name": "Mailtime Technology",
+  "url": "https://hackerone.com/mailtime_technology_inc",
+  "bounty": false,
+  "domains": []
+}

@@ -1,0 +1,8 @@
+{
+  "name": "CoinMetro",
+  "url": "https://hackenproof.com/coinmetro/coinmetro-exchange",
+  "bounty": true,
+  "domains": [
+    "coinmetro.com"
+  ]
+}

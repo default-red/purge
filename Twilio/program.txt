@@ -1,0 +1,9 @@
+{
+  "name": "Twilio",
+  "url": "https://bugcrowd.com/twilio",
+  "bounty": true,
+  "domains": [
+    "authy.com",
+    "twilio.com"
+  ]
+}

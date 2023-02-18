@@ -1,0 +1,10 @@
+{
+  "name": "Overstock",
+  "url": "https://bugcrowd.com/overstockvdp",
+  "bounty": false,
+  "domains": [
+    "handmade.com",
+    "overstock.com",
+    "supplieroasis.com"
+  ]
+}

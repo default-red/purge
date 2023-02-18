@@ -1,0 +1,9 @@
+{
+  "name": "CBRE",
+  "url": "https://hackerone.com/cbre",
+  "bounty": false,
+  "domains": [
+    "cbre.com",
+    "trammellcrow.com"
+  ]
+}

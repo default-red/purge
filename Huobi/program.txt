@@ -1,0 +1,8 @@
+{
+  "name": "Huobi",
+  "url": "https://hackenproof.com/huobi-global/huobi",
+  "bounty": true,
+  "domains": [
+    "huobi.com"
+  ]
+}

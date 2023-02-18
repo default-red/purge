@@ -1,0 +1,10 @@
+{
+  "name": "Apple",
+  "url": "https://security.apple.com",
+  "bounty": true,
+  "swag": false,
+  "domains": [
+    "apple.com",
+    "icloud.com"
+  ]
+}

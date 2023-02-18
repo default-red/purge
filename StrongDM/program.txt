@@ -1,0 +1,9 @@
+{
+  "name": "StrongDM",
+  "url": "https://hackerone.com/strongdm",
+  "bounty": false,
+  "domains": [
+    "strongdm.com",
+    "sdm.network"
+  ]
+}

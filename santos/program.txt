@@ -1,0 +1,8 @@
+{
+  "name": "santos",
+  "url": "https://bugcrowd.com/santos-vdp",
+  "bounty": false,
+  "domains": [
+    "santos.com"
+  ]
+}

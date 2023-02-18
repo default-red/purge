@@ -1,0 +1,9 @@
+{
+  "name": "Larksuite",
+  "url": "https://hackerone.com/lark_technologies",
+  "bounty": true,
+  "domains": [
+    "larksuite.com",
+    "byteoversea.com"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Fig",
+  "url": "https://hackerone.com/fig",
+  "bounty": false,
+  "domains": [
+    "fig.co"
+  ]
+}

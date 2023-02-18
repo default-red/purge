@@ -1,0 +1,9 @@
+{
+  "name": "Sony",
+  "url": "https://hackerone.com/sony",
+  "bounty": false,
+  "swag": true,
+  "domains": [
+    "sony.com"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Doist",
+  "url": "https://todoist.com/help/articles/doist-bug-bounty-policy",
+  "bounty": true,
+  "domains": [
+    "todoist.com",
+    "twist.com"
+  ]
+}

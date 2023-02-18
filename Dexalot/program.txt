@@ -1,0 +1,6 @@
+{
+  "name": "Dexalot",
+  "url": "https://hackenproof.com/dexalot/dexalot-smart-contracts",
+  "bounty": true,
+  "domains": []
+}

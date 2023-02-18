@@ -1,0 +1,8 @@
+{
+  "name": "Apsis",
+  "url": "https://www.apsis.com/bug-bounty",
+  "bounty": true,
+  "domains": [
+    "apsis.com"
+  ]
+}

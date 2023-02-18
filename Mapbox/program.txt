@@ -1,0 +1,8 @@
+{
+  "name": "Mapbox",
+  "url": "https://hackerone.com/mapbox",
+  "bounty": true,
+  "domains": [
+    "mapbox.com"
+  ]
+}

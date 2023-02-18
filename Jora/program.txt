@@ -1,0 +1,9 @@
+{
+  "name": "Jora",
+  "url": "https://bugcrowd.com/jora",
+  "bounty": true,
+  "domains": [
+    "jora.com",
+    "jora.xyz"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Smartsheet",
+  "url": "https://hackerone.com/smartsheet",
+  "bounty": true,
+  "domains": [
+    "smartsheet.com"
+  ]
+}

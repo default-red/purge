@@ -1,0 +1,14 @@
+{
+  "name": "Dell Technologies",
+  "url": "https://bugcrowd.com/dell-com",
+  "bounty": true,
+  "domains": [
+    "dell.com",
+    "dellemc.com",
+    "delltechnologies.com",
+    "emc.com",
+    "rsa.com",
+    "rsaconference.com",
+    "secureworks.com"
+  ]
+}

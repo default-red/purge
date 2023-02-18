@@ -1,0 +1,8 @@
+{
+  "name": "Gener8",
+  "url": "https://hackerone.com/gener8",
+  "bounty": false,
+  "domains": [
+    "gener8ads.com"
+  ]
+}

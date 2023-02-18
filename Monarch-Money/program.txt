@@ -1,0 +1,8 @@
+{
+  "name": "Monarch Money",
+  "url": "https://hackerone.com/monarch_money",
+  "bounty": false,
+  "domains": [
+    "monarchmoney.com"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Polkalokr",
+  "url": "https://hackenproof.com/polkalokr/polkalokr-1",
+  "bounty": true,
+  "domains": [
+    "polkalokr.com"
+  ]
+}

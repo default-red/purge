@@ -1,0 +1,8 @@
+{
+  "name": "Redox",
+  "url": "https://bugcrowd.com/redox",
+  "bounty": true,
+  "domains": [
+    "redoxengine.com"
+  ]
+}

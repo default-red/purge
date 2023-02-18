@@ -1,0 +1,8 @@
+{
+  "name": "Upwork",
+  "url": "https://bugcrowd.com/upwork",
+  "bounty": true,
+  "domains": [
+    "upwork.com"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Elementor",
+  "url": "https://bugcrowd.com/elementor",
+  "bounty": true,
+  "domains": [
+    "elementor.com"
+  ]
+}

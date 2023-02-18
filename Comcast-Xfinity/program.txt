@@ -1,0 +1,9 @@
+{
+  "name": "Comcast Xfinity",
+  "url": "https://bugcrowd.com/comcastvdp",
+  "bounty": false,
+  "domains": [
+    "comcast.com",
+    "xfinity.com"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Dex-Trade",
+  "url": "https://hackenproof.com/dex-trade/dex-trade",
+  "bounty": true,
+  "domains": [
+    "dex-trade.com"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Oro",
+  "url": "https://oroinc.com/bug-bounty/",
+  "bounty": true,
+  "domains": [
+    "oroinc.com"
+  ]
+}

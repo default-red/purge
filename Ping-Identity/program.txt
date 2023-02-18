@@ -1,0 +1,8 @@
+{
+  "name": "Ping Identity",
+  "url": "https://hackerone.com/pingidentity",
+  "bounty": true,
+  "domains": [
+    "pingone.com"
+  ]
+}

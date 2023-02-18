@@ -1,0 +1,9 @@
+{
+  "name": "Swiss Post",
+  "url": "https://yeswehack.com/programs/swiss-post",
+  "bounty": true,
+  "swag": false,
+  "domains": [
+    "post.ch"
+  ]
+}

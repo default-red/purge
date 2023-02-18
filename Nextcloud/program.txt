@@ -1,0 +1,9 @@
+{
+  "name": "Nextcloud",
+  "url": "https://hackerone.com/nextcloud",
+  "bounty": true,
+  "domains": [
+    "nextcloud.talk",
+    "nextcloud.com"
+  ]
+}

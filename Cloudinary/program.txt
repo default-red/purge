@@ -1,0 +1,8 @@
+{
+  "name": "Cloudinary",
+  "url": "https://bugcrowd.com/cloudinary",
+  "bounty": true,
+  "domains": [
+    "cloudinary.com"
+  ]
+}

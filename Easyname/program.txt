@@ -1,0 +1,8 @@
+{
+  "name": "Easyname",
+  "url": "https://www.easyname.de/de/support/easyname/253-bug-bounty-programm",
+  "bounty": true,
+  "domains": [
+    "easyname.com"
+  ]
+}

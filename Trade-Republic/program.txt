@@ -1,0 +1,8 @@
+{
+  "name": "Trade Republic",
+  "url": "https://hackerone.com/trade-republic-bbp",
+  "bounty": true,
+  "domains": [
+    "traderepublic.com"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Core",
+  "url": "https://hackenproof.com/avalanche/core",
+  "bounty": true,
+  "domains": [
+    "core.app"
+  ]
+}

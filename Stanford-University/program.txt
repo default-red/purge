@@ -1,0 +1,8 @@
+{
+  "name": "Stanford University",
+  "url": "https://uit.stanford.edu/security/bug-bounty",
+  "bounty": true,
+  "domains": [
+    "stanford.edu"
+  ]
+}

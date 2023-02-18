@@ -1,0 +1,9 @@
+{
+  "name": "Helium",
+  "url": "https://hackerone.com/helium",
+  "bounty": true,
+  "domains": [
+    "helium.systems",
+    "helium.com"
+  ]
+}

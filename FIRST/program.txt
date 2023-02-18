@@ -1,0 +1,8 @@
+{
+  "name": "FIRST",
+  "url": "https://www.first.org/about/bugs",
+  "bounty": false,
+  "domains": [
+    "first.org"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Facebook",
+  "url": "https://www.facebook.com/whitehat",
+  "bounty": true,
+  "domains": [
+    "facebook.com",
+    "fb.com",
+    "fb.me",
+    "messenger.com",
+    "thefacebook.com",
+    "accountkit.com",
+    "instagram.com",
+    "freebasics.com",
+    "internet.org",
+    "oculus.com",
+    "whatsapp.com",
+    "meta.com",
+    "mapillary.com",
+    "whatsapp.net"
+  ]
+}

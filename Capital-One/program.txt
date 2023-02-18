@@ -1,0 +1,27 @@
+{
+  "name": "Capital One",
+  "url": "https://hackerone.com/capital-one",
+  "bounty": false,
+  "domains": [
+    "theunioncard.com",
+    "mobile.prod",
+    "capitalonecards.com",
+    "unitedincome.com",
+    "ukcapitalone.capitalone",
+    "capitalonecareers.co.uk",
+    "wikibuy.com",
+    "konylabs.capitalone",
+    "capitalone.tz",
+    "capitalone.ca",
+    "capitalonebank.com",
+    "capitalone360.com",
+    "bluetarp.com",
+    "paribus.co",
+    "teamstercardnow.com",
+    "capitalone.com",
+    "capitalone.co.uk",
+    "criticalstack.com",
+    "usejewel.com",
+    "luma.co.uk"
+  ]
+}

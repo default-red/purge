@@ -1,0 +1,8 @@
+{
+  "name": "Observu",
+  "url": "https://observu.com/security.php",
+  "bounty": false,
+  "domains": [
+    "observu.com"
+  ]
+}

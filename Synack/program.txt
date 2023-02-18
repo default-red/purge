@@ -1,0 +1,8 @@
+{
+  "name": "Synack",
+  "url": "https://synack.responsibledisclosure.com/hc/en-us/",
+  "bounty": true,
+  "domains": [
+    "synack.com"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Bigbank",
+  "url": "https://ca.bigbank.eu/security",
+  "bounty": false,
+  "domains": [
+    "bigbank.at",
+    "bigbank.de",
+    "bigbank.ee",
+    "bigbank.eu",
+    "bigbank.fi",
+    "bigbank.lt",
+    "bigbank.lv",
+    "bigbank.nl",
+    "bigbank.se"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "IKEA",
+  "url": "https://bugs.ikea.com/",
+  "bounty": false,
+  "domains": [
+    "ikea.com"
+  ]
+}

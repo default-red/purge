@@ -1,0 +1,12 @@
+{
+  "name": "MasterCard",
+  "url": "https://bugcrowd.com/mastercard",
+  "bounty": true,
+  "domains": [
+    "mastercard.ch",
+    "mastercard.nl",
+    "mastercard.ru",
+    "mastercard.us",
+    "simplify.com"
+  ]
+}

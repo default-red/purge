@@ -1,0 +1,9 @@
+{
+  "name": "Open Technology Fund",
+  "url": "https://hackerone.com/otf",
+  "bounty": true,
+  "domains": [
+    "opentech.fund",
+    "reset.tech"
+  ]
+}

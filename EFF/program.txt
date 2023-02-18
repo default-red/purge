@@ -1,0 +1,9 @@
+{
+  "name": "EFF",
+  "url": "https://www.eff.org/security/",
+  "bounty": false,
+  "swag": true,
+  "domains": [
+    "eff.org"
+  ]
+}

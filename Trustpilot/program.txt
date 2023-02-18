@@ -1,0 +1,8 @@
+{
+  "name": "Trustpilot",
+  "url": "https://hackerone.com/trustpilot",
+  "bounty": true,
+  "domains": [
+    "trustpilot.com"
+  ]
+}

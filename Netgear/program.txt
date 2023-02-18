@@ -1,0 +1,8 @@
+{
+  "name": "Netgear",
+  "url": "https://bugcrowd.com/netgear",
+  "bounty": true,
+  "domains": [
+    "netgear.com"
+  ]
+}

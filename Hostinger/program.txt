@@ -1,0 +1,10 @@
+{
+  "name": "Hostinger",
+  "url": "https://www.hostinger.in/responsible-disclosure-policy",
+  "bounty": true,
+  "domains": [
+    "hostinger.com",
+    "zyro.com",
+    "hosting24.com"
+  ]
+}

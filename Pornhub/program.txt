@@ -1,0 +1,9 @@
+{
+  "name": "Pornhub",
+  "url": "https://hackerone.com/pornhub",
+  "bounty": true,
+  "domains": [
+    "pornhub.com",
+    "pornhubpremium.com"
+  ]
+}

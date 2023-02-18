@@ -1,0 +1,21 @@
+{
+  "name": "8x8",
+  "url": "https://hackerone.com/8x8",
+  "bounty": false,
+  "domains": [
+    "8x8.com",
+    "dxi.eu",
+    "callstats.io",
+    "jit.si",
+    "wavecell.com",
+    "ucverse.com",
+    "mycontactual.com",
+    "jitsi.org",
+    "packet8.net",
+    "get8x8.com",
+    "8x8.vc",
+    "easycontactnow.com",
+    "8x8.spot",
+    "sameroom.io"
+  ]
+}

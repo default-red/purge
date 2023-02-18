@@ -1,0 +1,8 @@
+{
+  "name": "PicsArt",
+  "url": "https://hackerone.com/picsart",
+  "bounty": false,
+  "domains": [
+    "picsart.studio"
+  ]
+}

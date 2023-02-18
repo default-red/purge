@@ -1,0 +1,8 @@
+{
+  "name": "NordVPN",
+  "url": "https://hackerone.com/nordsecurity",
+  "bounty": true,
+  "domains": [
+    "nordvpn.com"
+  ]
+}

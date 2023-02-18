@@ -1,0 +1,8 @@
+{
+  "name": "Arkose Labs",
+  "url": "https://bugcrowd.com/arkose-labs",
+  "bounty": true,
+  "domains": [
+    "arkoselabs.com"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Uber",
+  "url": "https://hackerone.com/uber",
+  "bounty": true,
+  "domains": [
+    "uber.com"
+  ]
+}

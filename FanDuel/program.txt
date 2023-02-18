@@ -1,0 +1,10 @@
+{
+  "name": "FanDuel",
+  "url": "https://hackerone.com/fanduel",
+  "bounty": true,
+  "domains": [
+    "fdbox.net",
+    "fanduel.com",
+    "fanduel.design"
+  ]
+}

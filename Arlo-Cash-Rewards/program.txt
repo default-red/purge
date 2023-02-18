@@ -1,0 +1,8 @@
+{
+  "name": "Arlo Cash Rewards",
+  "url": "https://bugcrowd.com/arlo",
+  "bounty": true,
+  "domains": [
+    "arlo.com"
+  ]
+}

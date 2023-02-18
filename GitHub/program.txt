@@ -1,0 +1,15 @@
+{
+  "name": "GitHub",
+  "url": "https://hackerone.com/github",
+  "bounty": true,
+  "domains": [
+    "semmle.com",
+    "github.net",
+    "github.com",
+    "githubapp.com",
+    "semmle.net",
+    "githubassets.com",
+    "githubwebhooks.net",
+    "lgtm.com"
+  ]
+}

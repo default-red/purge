@@ -1,0 +1,9 @@
+{
+  "name": "Carbon Black",
+  "url": "https://www.carbonblack.com/legal/reporting-security-vulnerability/",
+  "bounty": false,
+  "swag": true,
+  "domains": [
+    "carbonblack.com"
+  ]
+}

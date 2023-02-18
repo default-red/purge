@@ -1,0 +1,9 @@
+{
+  "name": "CVS Health VDP",
+  "url": "https://www.cvshealth.com/vulnerability-disclosure-program",
+  "bounty": false,
+  "domains": [
+    "cvs.com",
+    "cvshealth.com"
+  ]
+}

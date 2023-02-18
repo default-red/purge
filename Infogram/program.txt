@@ -1,0 +1,8 @@
+{
+  "name": "Infogram",
+  "url": "https://hackerone.com/infogram",
+  "bounty": false,
+  "domains": [
+    "infogram.com"
+  ]
+}

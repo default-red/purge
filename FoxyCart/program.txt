@@ -1,0 +1,8 @@
+{
+  "name": "FoxyCart",
+  "url": "https://bugcrowd.com/foxycart",
+  "bounty": true,
+  "domains": [
+    "foxycart.com"
+  ]
+}

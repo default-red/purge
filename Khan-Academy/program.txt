@@ -1,0 +1,8 @@
+{
+  "name": "Khan Academy",
+  "url": "https://hackerone.com/khanacademy",
+  "bounty": false,
+  "domains": [
+    "khanacademy.org"
+  ]
+}

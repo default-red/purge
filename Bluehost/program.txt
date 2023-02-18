@@ -1,0 +1,9 @@
+{
+  "name": "Bluehost",
+  "url": "https://bugcrowd.com/newfold-bluehostindia-vdp",
+  "bounty": false,
+  "domains": [
+    "bluehost.com",
+    "bluehost.in"
+  ]
+}

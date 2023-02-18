@@ -1,0 +1,8 @@
+{
+  "name": "SecNews",
+  "url": "https://hackerone.com/secnews",
+  "bounty": true,
+  "domains": [
+    "secnews.gr"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Gymshark",
+  "url": "https://hackerone.com/gymshark",
+  "bounty": false,
+  "domains": [
+    "gymshark.com",
+    "gymshark.io"
+  ]
+}

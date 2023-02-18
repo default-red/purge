@@ -1,0 +1,9 @@
+{
+  "name": "Zerodha",
+  "url": "https://zerodha.com/bug-bounty/",
+  "bounty": true,
+  "domains": [
+    "zerodha.com",
+    "kite.trade"
+  ]
+}

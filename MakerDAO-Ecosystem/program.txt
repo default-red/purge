@@ -1,0 +1,8 @@
+{
+  "name": "MakerDAO Ecosystem",
+  "url": "https://immunefi.com/bounty/makerdao/",
+  "bounty": true,
+  "domains": [
+    "makerdao.com"
+  ]
+}

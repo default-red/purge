@@ -1,0 +1,8 @@
+{
+  "name": "MercadoLibre",
+  "url": "https://hackerone.com/mercadolibre",
+  "bounty": true,
+  "domains": [
+    "mercadolibre.com"
+  ]
+}

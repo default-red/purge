@@ -1,0 +1,8 @@
+{
+  "name": "Pixabay",
+  "url": "https://bugcrowd.com/pixabay",
+  "bounty": true,
+  "domains": [
+    "pixabay.com"
+  ]
+}

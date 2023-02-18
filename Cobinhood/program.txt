@@ -1,0 +1,9 @@
+{
+  "name": "Cobinhood",
+  "url": "https://hackerone.com/cobinhood",
+  "bounty": true,
+  "domains": [
+    "cobinhood.exchange",
+    "cobinhood.com"
+  ]
+}

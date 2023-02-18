@@ -1,0 +1,8 @@
+{
+  "name": "Razorpay",
+  "url": "https://razorpay.com/responsible-disclosure/",
+  "bounty": false,
+  "domains": [
+    "razorpay.com"
+  ]
+}

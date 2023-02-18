@@ -1,0 +1,8 @@
+{
+  "name": "Postmates",
+  "url": "https://hackerone.com/postmates",
+  "bounty": true,
+  "domains": [
+    "postmates.com"
+  ]
+}

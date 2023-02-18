@@ -1,0 +1,9 @@
+{
+  "name": "Ibotta",
+  "url": "https://bugcrowd.com/ibotta",
+  "bounty": true,
+  "domains": [
+    "ibotta.com",
+    "ibops.net"
+  ]
+}

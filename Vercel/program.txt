@@ -1,0 +1,12 @@
+{
+  "name": "Vercel",
+  "url": "https://hackerone.com/vercel",
+  "bounty": false,
+  "domains": [
+    "vercel.com",
+    "now.systems",
+    "zeit-cdn.net",
+    "vercel.sh",
+    "zeit.sh"
+  ]
+}

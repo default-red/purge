@@ -1,0 +1,32 @@
+{
+  "name": "Western Union",
+  "url": "https://bugcrowd.com/westernunion",
+  "bounty": true,
+  "domains": [
+    "westernunion.at",
+    "westernunion.ie",
+    "westernunion.de",
+    "westernunion.co.uk",
+    "westernunion.com.au",
+    "westernunion.co.nz",
+    "westernunion.fr",
+    "westernunion.no",
+    "westernunion.es",
+    "westernunion.ca",
+    "westernunionbank.com",
+    "westernunion.dk",
+    "westernunion.it",
+    "westernunion.nl",
+    "westernunion.pt",
+    "westernunion.com",
+    "westernunion.ee",
+    "westernunion.se",
+    "westernunion.fi",
+    "westernunion.pl",
+    "westernunion.ch",
+    "westernunion.gr",
+    "westernunion.be",
+    "westernunion.lu",
+    "wuedge.com"
+  ]
+}

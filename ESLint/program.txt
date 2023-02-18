@@ -1,0 +1,8 @@
+{
+  "name": "ESLint",
+  "url": "https://hackerone.com/eslint",
+  "bounty": false,
+  "domains": [
+    "eslint.org"
+  ]
+}

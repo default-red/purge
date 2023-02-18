@@ -1,0 +1,11 @@
+{
+  "name": "OLX",
+  "url": "https://hackerone.com/olx",
+  "bounty": false,
+  "domains": [
+    "olx.in",
+    "olx.co.za",
+    "olx.co.id",
+    "olx.com.pk"
+  ]
+}

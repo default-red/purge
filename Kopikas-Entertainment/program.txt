@@ -1,0 +1,8 @@
+{
+  "name": "Kopikas Entertainment",
+  "url": "https://hackerone.com/kopikas_entertainment",
+  "bounty": false,
+  "domains": [
+    "slots.io"
+  ]
+}

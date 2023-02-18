@@ -1,0 +1,8 @@
+{
+  "name": "GObugfree",
+  "url": "https://gobugfree.com/programs/bbh",
+  "bounty": true,
+  "domains": [
+    "gobugfree.com"
+  ]
+}

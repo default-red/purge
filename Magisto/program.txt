@@ -1,0 +1,8 @@
+{
+  "name": "Magisto",
+  "url": "https://hackerone.com/magisto",
+  "bounty": true,
+  "domains": [
+    "magisto.com"
+  ]
+}

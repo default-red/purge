@@ -1,0 +1,9 @@
+{
+  "name": "Constant Contact",
+  "url": "https://bugcrowd.com/constantcontact",
+  "bounty": false,
+  "domains": [
+    "constantcontact.com",
+    "singleplatform.com"
+  ]
+}

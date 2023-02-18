@@ -1,0 +1,8 @@
+{
+  "name": "Flickr",
+  "url": "https://hackerone.com/flickr",
+  "bounty": true,
+  "domains": [
+    "flickr.com"
+  ]
+}

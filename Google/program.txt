@@ -1,0 +1,14 @@
+{
+  "name": "Google",
+  "url": "https://www.google.com/about/appsecurity/reward-program/",
+  "bounty": true,
+  "domains": [
+    "google.com",
+    "youtube.com",
+    "projectbaseline.com",
+    "onduo.com",
+    "verily.com",
+    "blogger.com",
+    "signalpath.com"
+  ]
+}

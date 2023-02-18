@@ -1,0 +1,8 @@
+{
+  "name": "LiquidWeb",
+  "url": "https://www.liquidweb.com/about-us/policies/bug-bounty-program/",
+  "bounty": true,
+  "domains": [
+    "liquidweb.com"
+  ]
+}

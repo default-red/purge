@@ -1,0 +1,12 @@
+{
+  "name": "Ford",
+  "url": "https://hackerone.com/ford",
+  "bounty": false,
+  "domains": [
+    "motorcraft.com",
+    "quicklane.com",
+    "ford.com",
+    "omnicraftautoparts.com",
+    "lincoln.com"
+  ]
+}

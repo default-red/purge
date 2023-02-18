@@ -1,0 +1,10 @@
+{
+  "name": "Slack",
+  "url": "https://hackerone.com/slack",
+  "bounty": true,
+  "domains": [
+    "slackb.com",
+    "slack.com",
+    "quip.com"
+  ]
+}

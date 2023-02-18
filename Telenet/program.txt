@@ -1,0 +1,13 @@
+{
+  "name": "Telenet",
+  "url": "https://app.intigriti.com/programs/telenet/telenetgroup/detail",
+  "bounty": true,
+  "domains": [
+    "9lives.be",
+    "base.be",
+    "telenet.be",
+    "telenethotspot.be",
+    "yelo.be",
+    "yeloplay.be"
+  ]
+}

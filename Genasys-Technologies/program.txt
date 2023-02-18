@@ -1,0 +1,8 @@
+{
+  "name": "Genasys Technologies",
+  "url": "https://hackerone.com/genasys",
+  "bounty": false,
+  "domains": [
+    "genasys.tech"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Lemlist",
+  "url": "https://hackerone.com/lemlist",
+  "bounty": false,
+  "domains": [
+    "lemlist.com"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Host Gator",
+  "url": "https://bugcrowd.com/hostgator",
+  "bounty": false,
+  "domains": [
+    "hostgator.com.br",
+    "hostgator.mx",
+    "hostgator.cl",
+    "hostgator.co",
+    "hostgator.io",
+    "hostgator.com"
+  ]
+}

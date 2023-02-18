@@ -1,0 +1,8 @@
+{
+  "name": "YNAB",
+  "url": "https://bugcrowd.com/ynab",
+  "bounty": true,
+  "domains": [
+    "youneedabudget.com"
+  ]
+}

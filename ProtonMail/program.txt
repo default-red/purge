@@ -1,0 +1,9 @@
+{
+  "name": "ProtonMail",
+  "url": "https://protonmail.com/blog/protonmail-bug-bounty-program/",
+  "bounty": true,
+  "swag": false,
+  "domains": [
+    "protonmail.com"
+  ]
+}

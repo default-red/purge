@@ -1,0 +1,8 @@
+{
+  "name": "Trint Ltd",
+  "url": "https://hackerone.com/trint",
+  "bounty": false,
+  "domains": [
+    "trint.com"
+  ]
+}

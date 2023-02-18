@@ -1,0 +1,8 @@
+{
+  "name": "Intigriti",
+  "url": "https://app.intigriti.com/programs/intigriti/intigriti/detail",
+  "bounty": true,
+  "domains": [
+    "intigriti.com"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Hy-Vee",
+  "url": "https://hackerone.com/hy-vee",
+  "bounty": false,
+  "domains": [
+    "hy-vee.com"
+  ]
+}

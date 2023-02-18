@@ -1,0 +1,8 @@
+{
+  "name": "Smartmockups",
+  "url": "https://bugcrowd.com/smartmockups",
+  "bounty": true,
+  "domains": [
+    "smartmockups.com"
+  ]
+}

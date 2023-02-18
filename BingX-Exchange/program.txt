@@ -1,0 +1,9 @@
+{
+  "name": "BingX Exchange",
+  "url": "https://hackenproof.com/bingx/bingx-exchange",
+  "bounty": true,
+  "domains": [
+    "bingx.com",
+    "bingx.pro"
+  ]
+}

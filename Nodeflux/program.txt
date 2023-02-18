@@ -1,0 +1,10 @@
+{
+  "name": "Nodeflux",
+  "url": "https://www.nodeflux.io/bug-bounty",
+  "bounty": true,
+  "swag": false,
+  "domains": [
+    "nodeflux.io",
+    "identifai.id"
+  ]
+}

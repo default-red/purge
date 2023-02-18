@@ -1,0 +1,9 @@
+{
+  "name": "Avail Carsharing",
+  "url": "https://availcarsharing.com/bug-bounty",
+  "bounty": true,
+  "swag": false,
+  "domains": [
+    "availcarsharing.com"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Lets Build",
+  "url": "https://www.letsbuild.com/responsible-disclosure",
+  "bounty": false,
+  "domains": [
+    "letsbuild.com"
+  ]
+}

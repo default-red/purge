@@ -1,0 +1,10 @@
+{
+  "name": "ProtonVPN",
+  "url": "https://protonvpn.com/blog/bug-bounty-program/",
+  "bounty": true,
+  "swag": false,
+  "domains": [
+    "protonvpn.com",
+    "protonvpn.ch"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "LastPass",
+  "url": "https://bugcrowd.com/lastpass",
+  "bounty": true,
+  "domains": [
+    "lastpass.com"
+  ]
+}

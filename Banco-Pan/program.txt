@@ -1,0 +1,11 @@
+{
+  "name": "Banco Pan",
+  "url": "https://bugbounty.hackaflag.com.br/hempresa.php?id=14",
+  "bounty": true,
+  "swag": false,
+  "domains": [
+    "bancopan.com.br",
+    "panmais.com.br",
+    "pansolucoes.com.br"
+  ]
+}

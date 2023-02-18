@@ -1,0 +1,8 @@
+{
+  "name": "CBS",
+  "url": "https://www.cbs.nl/nl-nl/over-ons/website/responsible-disclosure",
+  "bounty": false,
+  "domains": [
+    "cbs.nl"
+  ]
+}

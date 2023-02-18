@@ -1,0 +1,9 @@
+{
+  "name": "LANCHAIN.IO",
+  "url": "https://hackenproof.com/latoken/lachain-dot-io",
+  "bounty": true,
+  "domains": [
+    "lachain.io",
+    "ladex.exchange"
+  ]
+}

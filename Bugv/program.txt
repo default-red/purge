@@ -1,0 +1,8 @@
+{
+  "name": "Bugv",
+  "url": "https://app.bugv.io/researcher/program/0000001/detail",
+  "bounty": true,
+  "domains": [
+    "bugv.io"
+  ]
+}

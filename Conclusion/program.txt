@@ -1,0 +1,8 @@
+{
+  "name": "Conclusion",
+  "url": "https://www.conclusion.nl/kleine-lettertjes/coordinated-vulnerability-disclosure",
+  "bounty": false,
+  "domains": [
+    "conclusion.nl"
+  ]
+}

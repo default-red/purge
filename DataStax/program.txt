@@ -1,0 +1,8 @@
+{
+  "name": "DataStax",
+  "url": "https://hackerone.com/datastax",
+  "bounty": true,
+  "domains": [
+    "datastax.com"
+  ]
+}

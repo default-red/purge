@@ -1,0 +1,9 @@
+{
+  "name": "Moneytree KK",
+  "url": "https://bugcrowd.com/moneytreekkog",
+  "bounty": true,
+  "domains": [
+    "getmoneytree.com",
+    "moneytree.jp"
+  ]
+}

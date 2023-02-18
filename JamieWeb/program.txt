@@ -1,0 +1,10 @@
+{
+  "name": "JamieWeb",
+  "url": "https://hackerone.com/jamieweb",
+  "bounty": false,
+  "domains": [
+    "jamiewebgbelqfno.onion",
+    "jamieweb.net",
+    "jamie3vkiwibfiwucd6vxijskbhpjdyajmzeor4mc4i7yopvpo4p7cyd.onion"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "CoinGecko",
+  "url": "https://hackenproof.com/coingecko/coingecko",
+  "bounty": true,
+  "domains": [
+    "coingecko.com",
+    "geckoterminal.com"
+  ]
+}

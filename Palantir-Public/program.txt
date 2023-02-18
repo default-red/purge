@@ -1,0 +1,19 @@
+{
+  "name": "Palantir Public",
+  "url": "https://hackerone.com/palantir_public",
+  "bounty": true,
+  "domains": [
+    "palantir.com",
+    "palantir.tech",
+    "palantir.build",
+    "palantircloud.com",
+    "palantircloud.co.uk",
+    "palantirfoundry.com",
+    "palantirfoundry.co.uk",
+    "palantirfoundry.de",
+    "palantirfoundry.fr",
+    "palantirfoundry.com.au",
+    "palantirgov.com",
+    "foundrygov.com"
+  ]
+}

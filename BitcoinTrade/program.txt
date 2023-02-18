@@ -1,0 +1,9 @@
+{
+  "name": "BitcoinTrade",
+  "url": "https://admin.bughunt.com.br/program/detail?5f98855f51ec4c09107c0534",
+  "bounty": true,
+  "domains": [
+    "bitcointrade.com.br",
+    "bitcoinback.com.br"
+  ]
+}

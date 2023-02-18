@@ -1,0 +1,8 @@
+{
+  "name": "Internet NL",
+  "url": "https://internet.nl/disclosure/",
+  "bounty": false,
+  "domains": [
+    "internet.nl"
+  ]
+}

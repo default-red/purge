@@ -1,0 +1,8 @@
+{
+  "name": "Codefi",
+  "url": "https://hackerone.com/codefi_bbp",
+  "bounty": true,
+  "domains": [
+    "codefi.network"
+  ]
+}

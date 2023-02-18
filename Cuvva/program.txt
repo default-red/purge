@@ -1,0 +1,10 @@
+{
+  "name": "Cuvva",
+  "url": "https://hackerone.com/cuvva",
+  "bounty": false,
+  "domains": [
+    "cuvva.co",
+    "cuvva.com",
+    "cuv-prod.app"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "WP Engine",
+  "url": "https://wpengine.com/security/",
+  "bounty": false,
+  "domains": [
+    "studiopress.blog",
+    "wpengine.com",
+    "wpengine.io",
+    "wpesvc.net",
+    "studiopress.com"
+  ]
+}

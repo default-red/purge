@@ -1,0 +1,9 @@
+{
+  "name": "SecurityScorecard",
+  "url": "https://hackerone.com/securityscorecard",
+  "bounty": false,
+  "domains": [
+    "securityscorecard.io",
+    "securityscorecard.com"
+  ]
+}

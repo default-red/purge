@@ -1,0 +1,8 @@
+{
+  "name": "Mendix",
+  "url": "https://hackerone.com/mendix",
+  "bounty": false,
+  "domains": [
+    "mendix.com"
+  ]
+}

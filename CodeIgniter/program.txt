@@ -1,0 +1,8 @@
+{
+  "name": "CodeIgniter",
+  "url": "https://hackerone.com/codeigniter",
+  "bounty": false,
+  "domains": [
+    "codeigniter.com"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Clause",
+  "url": "https://clause.io/security",
+  "bounty": true,
+  "domains": [
+    "clausestaging.com"
+  ]
+}

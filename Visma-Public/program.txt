@@ -1,0 +1,10 @@
+{
+  "name": "Visma Public",
+  "url": "https://hackerone.com/visma",
+  "bounty": true,
+  "domains": [
+    "visma.com",
+    "vismaonline.com",
+    "workbox.dk"
+  ]
+}

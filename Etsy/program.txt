@@ -1,0 +1,9 @@
+{
+  "name": "Etsy",
+  "url": "https://bugcrowd.com/etsy",
+  "bounty": true,
+  "domains": [
+    "etsy.com",
+    "etsypayments.com"
+  ]
+}

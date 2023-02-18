@@ -1,0 +1,9 @@
+{
+  "name": "InVision",
+  "url": "https://bugcrowd.com/invision",
+  "bounty": true,
+  "domains": [
+    "muz.li",
+    "invisionapp.com"
+  ]
+}

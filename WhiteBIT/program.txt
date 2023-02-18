@@ -1,0 +1,8 @@
+{
+  "name": "WhiteBIT",
+  "url": "https://hackenproof.com/whitebit/whitebit",
+  "bounty": true,
+  "domains": [
+    "whitebit.com"
+  ]
+}

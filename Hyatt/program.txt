@@ -1,0 +1,8 @@
+{
+  "name": "Hyatt",
+  "url": "https://hackerone.com/hyatt",
+  "bounty": true,
+  "domains": [
+    "hyatt.com"
+  ]
+}

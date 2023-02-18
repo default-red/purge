@@ -1,0 +1,8 @@
+{
+  "name": "RGhost",
+  "url": "https://hackerone.com/rghost",
+  "bounty": false,
+  "domains": [
+    "rghost.net"
+  ]
+}

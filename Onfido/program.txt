@@ -1,0 +1,9 @@
+{
+  "name": "Onfido",
+  "url": "https://onfido.com/company/responsible-disclosure/",
+  "bounty": false,
+  "swag": true,
+  "domains": [
+    "onfido.com"
+  ]
+}

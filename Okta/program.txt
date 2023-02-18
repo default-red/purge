@@ -1,0 +1,8 @@
+{
+  "name": "Okta",
+  "url": "https://bugcrowd.com/okta",
+  "bounty": true,
+  "domains": [
+    "oktapreview.com"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Jimdo",
+  "url": "https://hackerone.com/jimdo",
+  "bounty": false,
+  "domains": [
+    "jimdo.com",
+    "jimdofree.com",
+    "jimdosite.com",
+    "jimdo-platform.net"
+  ]
+}

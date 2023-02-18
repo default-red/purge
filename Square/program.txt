@@ -1,0 +1,9 @@
+{
+  "name": "Square",
+  "url": "https://bugcrowd.com/square",
+  "bounty": true,
+  "domains": [
+    "squareup.com",
+    "square.com"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Binance",
+  "url": "https://bugcrowd.com/binance",
+  "bounty": true,
+  "domains": [
+    "binance.com",
+    "binance.org",
+    "binance.co.ug",
+    "binance.je",
+    "binance.sg",
+    "binance.us"
+  ]
+}

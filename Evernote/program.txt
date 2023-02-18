@@ -1,0 +1,8 @@
+{
+  "name": "Evernote",
+  "url": "https://hackerone.com/evernote",
+  "bounty": false,
+  "domains": [
+    "evernote.com"
+  ]
+}

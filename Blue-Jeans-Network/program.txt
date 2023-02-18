@@ -1,0 +1,8 @@
+{
+  "name": "Blue Jeans Network",
+  "url": "https://bugcrowd.com/bluejeans",
+  "bounty": true,
+  "domains": [
+    "bluejeans.com"
+  ]
+}

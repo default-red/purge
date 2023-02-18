@@ -1,0 +1,6 @@
+{
+  "name": "OwnCloud",
+  "url": "https://hackerone.com/owncloud",
+  "bounty": true,
+  "domains": []
+}

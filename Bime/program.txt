@@ -1,0 +1,9 @@
+{
+  "name": "Bime",
+  "url": "https://hackerone.com/bime",
+  "bounty": true,
+  "domains": [
+    "bime.io",
+    "bimeanalytics.com"
+  ]
+}

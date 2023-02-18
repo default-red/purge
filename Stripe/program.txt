@@ -1,0 +1,16 @@
+{
+  "name": "Stripe",
+  "url": "https://hackerone.com/stripe",
+  "bounty": true,
+  "domains": [
+    "stripe.com",
+    "touchtechpayments.com",
+    "indiehackers.com",
+    "payable.com",
+    "getbouncer.com",
+    "recko.io",
+    "reckoproduction.com",
+    "reckostaging.com",
+    "link.co"
+  ]
+}

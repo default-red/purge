@@ -1,0 +1,9 @@
+{
+  "name": "Sendcloud",
+  "url": "https://www.sendcloud.com/bug-bounty-program/",
+  "bounty": true,
+  "swag": false,
+  "domains": [
+    "sendcloud.com"
+  ]
+}

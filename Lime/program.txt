@@ -1,0 +1,10 @@
+{
+  "name": "Lime",
+  "url": "https://bugcrowd.com/lime",
+  "bounty": true,
+  "domains": [
+    "lime.bike",
+    "limeinternal.com",
+    "li.me"
+  ]
+}

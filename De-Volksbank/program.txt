@@ -1,0 +1,11 @@
+{
+  "name": "De Volksbank",
+  "url": "https://hackerone.com/devolksbank",
+  "bounty": true,
+  "domains": [
+    "devolksbank.nl",
+    "asnbank.nl",
+    "blgwonen.nl",
+    "regiobank.nl"
+  ]
+}

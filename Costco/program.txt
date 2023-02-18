@@ -1,0 +1,11 @@
+{
+  "name": "Costco",
+  "url": "https://hackerone.com/costco",
+  "bounty": false,
+  "domains": [
+    "costco.com",
+    "costco.ca",
+    "costcobusinessdelivery.com",
+    "costcobusinesscentre.ca"
+  ]
+}

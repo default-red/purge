@@ -1,0 +1,9 @@
+{
+  "name": "Amsterdam Airport Schiphol",
+  "url": "https://www.schiphol.nl/en/page/responsible-disclosure-notification/",
+  "bounty": false,
+  "domains": [
+    "schiphol.nl",
+    "schiphol.com"
+  ]
+}
